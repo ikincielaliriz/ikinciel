@@ -126,11 +126,14 @@ def validate_record(record, label: str, expected_category: str | None = None):
     if not isinstance(audience, list) or not audience:
         errors.append(f"{label}: audience must be a non-empty array")
     else:
-        if any(item not in VALID_AUDIENCES for item in audience):
+        audience_items_valid = all(
+            isinstance(item, str) and item in VALID_AUDIENCES for item in audience
+        )
+        if not audience_items_valid:
             errors.append(
-                f"{label}: audience values must be from {sorted(VALID_AUDIENCES)}"
+                f"{label}: audience values must be strings from {sorted(VALID_AUDIENCES)}"
             )
-        if len(audience) != len(set(audience)):
+        if all(isinstance(item, str) for item in audience) and len(audience) != len(set(audience)):
             errors.append(f"{label}: audience contains duplicate values")
 
     if "related_questions" in record:
@@ -161,9 +164,10 @@ def validate_record(record, label: str, expected_category: str | None = None):
         except ValueError:
             errors.append(f"{label}: last_updated must be a valid YYYY-MM-DD date")
 
-    if record.get("review_status") not in VALID_STATUSES:
+    review_status = record.get("review_status")
+    if not isinstance(review_status, str) or review_status not in VALID_STATUSES:
         errors.append(
-            f"{label}: review_status must be one of {sorted(VALID_STATUSES)}"
+            f"{label}: review_status must be a string from {sorted(VALID_STATUSES)}"
         )
 
 
