@@ -598,29 +598,5 @@
     "source_url": "https://ikincielaliriz.com/",
     "last_updated": "2026-10-24",
     "review_status": "draft_review_required"
-  },
-  {
-    "id": "IKN-MAC-026",
-    "language": "tr",
-    "category": "apple_mac",
-    "question": "MacBook, iMac veya Mac mini için teklif almadan önce hangi kontrolleri yapmalıyım?",
-    "answer": "Model ve yapılandırmayı doğrulayın; ekran, klavye, bağlantılar, şarj, pil veya güç durumu ile cihazın genel çalışmasını gözlemleyin. Bilinen arızaları, onarım geçmişini ve aksesuarları not edin. Kişisel verilerinizi yedekleyip silme ve Apple Hesabı'ndan çıkış işlemlerini cihazı teslim etmeden önce tamamlayın. Seri numarası ve hesap bilgilerini herkese açık paylaşmayın. Teklif koşullarını, cihaz incelendiğinde tutarın değişip değişemeyeceğini ve teslim sürecini önceden okuyun.",
-    "keywords": [
-      "MacBook teklif alma",
-      "Mac satış öncesi kontrol listesi",
-      "iMac değerlendirme"
-    ],
-    "intent": "mac_teklif_oncesi_kontrol",
-    "audience": [
-      "bireysel",
-      "kurumsal"
-    ],
-    "related_questions": [
-      "MacBook teklif alma",
-      "Mac satış öncesi kontrol listesi"
-    ],
-    "source_url": "https://ikincielaliriz.com/",
-    "last_updated": "2026-10-24",
-    "review_status": "draft_review_required"
   }
 ]
