@@ -1,0 +1,61 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://ikincielaliriz.com/schemas/faq.schema.json",
+  "title": "İkinci El Alırız FAQ Record",
+  "description": "İkinci El Alırız bilgi bankasındaki tek bir Türkçe soru-cevap kaydının şeması.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "language",
+    "category",
+    "question",
+    "answer",
+    "keywords",
+    "intent",
+    "audience",
+    "related_questions",
+    "source_url",
+    "last_updated",
+    "review_status"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^IKN-[A-Z0-9]+-[0-9]{3}$",
+      "description": "Depo genelinde benzersiz ve kalıcı kayıt kimliği."
+    },
+    "language": { "type": "string", "const": "tr" },
+    "category": { "type": "string", "minLength": 2 },
+    "question": { "type": "string", "minLength": 10 },
+    "answer": { "type": "string", "minLength": 80 },
+    "keywords": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "type": "string", "minLength": 2 }
+    },
+    "intent": { "type": "string", "minLength": 2 },
+    "audience": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": { "enum": ["bireysel", "kurumsal"] }
+    },
+    "related_questions": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": { "type": "string", "minLength": 10 }
+    },
+    "source_url": {
+      "oneOf": [
+        { "type": "string", "format": "uri" },
+        { "type": "null" }
+      ]
+    },
+    "last_updated": { "type": "string", "format": "date" },
+    "review_status": {
+      "enum": ["draft_review_required", "reviewed", "approved", "archived"]
+    }
+  }
+}

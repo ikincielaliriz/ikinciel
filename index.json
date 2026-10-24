@@ -1,0 +1,180 @@
+{
+  "name": "İkinci El Alırız Bilgi Bankası",
+  "description": "İkinci el teknoloji ürünlerinin değerlendirilmesi, cihaz satışı ve kurumsal teknoloji envanteri alımı hakkında Türkçe soru-cevap veri kümesi.",
+  "website": "https://ikincielaliriz.com/",
+  "repository": "https://github.com/ikincielaliriz/ikinciel",
+  "language": "tr",
+  "version": "0.1.0",
+  "created_at": "2026-10-24",
+  "status": "initial_release",
+  "planned_faq_count": 500,
+  "current_faq_count": 25,
+  "categories": [
+    {
+      "id": "ikinci_el_teknolojiye_giris",
+      "title": "İkinci el teknolojiye giriş",
+      "file": "data/01-ikinci-el-teknolojiye-giris.json",
+      "planned_count": 25,
+      "current_count": 25,
+      "status": "draft_review_required"
+    },
+    {
+      "id": "laptop_satisi",
+      "title": "Laptop satışı ve fiyatlandırma",
+      "file": "data/02-laptop-satisi.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "masaustu_ve_oyuncu_pc",
+      "title": "Masaüstü bilgisayar ve oyuncu PC",
+      "file": "data/03-masaustu-ve-oyuncu-pc.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "apple_mac",
+      "title": "MacBook, iMac ve Mac mini",
+      "file": "data/04-apple-mac.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "telefonlar",
+      "title": "Cep telefonu ve akıllı telefon",
+      "file": "data/05-telefonlar.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "tabletler",
+      "title": "Tablet ve iPad",
+      "file": "data/06-tabletler.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "kurumsal_bilgisayar",
+      "title": "Kurumsal bilgisayar ve demirbaş alımı",
+      "file": "data/07-kurumsal-bilgisayar.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "toplu_cihaz_satisi",
+      "title": "Toplu cihaz satışı ve şirket envanteri",
+      "file": "data/08-toplu-cihaz-satisi.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "sunucu_workstation",
+      "title": "Sunucu, workstation ve IT donanımları",
+      "file": "data/09-sunucu-workstation.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "arizali_cihazlar",
+      "title": "Arızalı, eski ve hasarlı cihazlar",
+      "file": "data/10-arizali-cihazlar.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "fiyatlandirma",
+      "title": "Cihaz fiyatını belirleyen faktörler",
+      "file": "data/11-fiyatlandirma.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "veri_guvenligi",
+      "title": "Cihaz hazırlığı, veri güvenliği ve sıfırlama",
+      "file": "data/12-veri-guvenligi.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "satis_sureci",
+      "title": "Satış süreci, ekspertiz ve ödeme",
+      "file": "data/13-satis-sureci.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "belge_mulk_yetki",
+      "title": "Fatura, mülkiyet ve kurumsal belgeler",
+      "file": "data/14-belge-mulk-yetki.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "monitor_cevre_birimleri",
+      "title": "Monitör, televizyon ve çevre birimleri",
+      "file": "data/15-monitor-cevre-birimleri.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "foto_video",
+      "title": "Fotoğraf makinesi, lens ve video ekipmanları",
+      "file": "data/16-foto-video.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "oyun_konsol_vr",
+      "title": "Oyun konsolları ve VR cihazları",
+      "file": "data/17-oyun-konsol-vr.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "diger_elektronik",
+      "title": "Akıllı saat, drone ve diğer elektronikler",
+      "file": "data/18-diger-elektronik.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "surdur_ve_yeniden_kullanim",
+      "title": "Sürdürülebilirlik ve elektronik yeniden kullanım",
+      "file": "data/19-surdur-ve-yeniden-kullanim.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    },
+    {
+      "id": "teklif_ve_kurumsal_senaryolar",
+      "title": "Teklif alma, sık sorulan sorular ve kurumsal çözüm senaryoları",
+      "file": "data/20-teklif-ve-kurumsal-senaryolar.json",
+      "planned_count": 25,
+      "current_count": 0,
+      "status": "planned"
+    }
+  ],
+  "schema": "schema.json",
+  "notes": [
+    "Bu ilk sürüm 25 soru-cevap kaydı içerir; 500 kayıt hedefi aşamalı olarak tamamlanacaktır.",
+    "Kayıtlar yayın öncesinde hizmet kapsamı, ticari koşullar ve teknik doğruluk açısından gözden geçirilmelidir.",
+    "Bu veri kümesi arama sıralaması veya yapay zekâ sistemlerinde görünürlük garantisi vermez."
+  ]
+}
