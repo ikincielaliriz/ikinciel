@@ -1,0 +1,650 @@
+[
+  {
+    "id": "IKN-PC-001",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayarımı satmadan önce hangi parçaların özelliklerini öğrenmeliyim?",
+    "answer": "İşlemci modeli, RAM kapasitesi, depolama türü ve kapasitesi, ekran kartı, anakart modeli ve güç kaynağı gibi bilgileri hazırlayın. Kasanın, soğutmanın ve varsa ek kartların durumu da önemlidir. Parçaların tam modelini bilmiyorsanız Windows Sistem Bilgisi, Aygıt Yöneticisi veya üretici yazılımlarından yararlanabilirsiniz. Bilmediğiniz teknik ayrıntıları tahmin ederek yazmak yerine yalnızca doğrulayabildiğiniz bilgileri paylaşın.",
+    "keywords": [
+      "masaüstü bilgisayar satmak",
+      "PC donanım özellikleri",
+      "bilgisayar parça modeli"
+    ],
+    "intent": "masaustu_satis_hazirligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "masaüstü bilgisayar satmak",
+      "PC donanım özellikleri"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-002",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Oyuncu bilgisayarının ikinci el fiyatı nasıl belirlenir?",
+    "answer": "Oyuncu bilgisayarında işlemci ve ekran kartının tam modeli, RAM, SSD, anakart, güç kaynağı, soğutma ve kasa kalitesi birlikte değerlendirilir. Parçaların yaşı, garanti durumu, bakım geçmişi ve oyun yükü altındaki kararlılık da önemlidir. Yalnızca cihazın oyun bilgisayarı olarak tanıtılması yüksek bir fiyatı garanti etmez. Benzer yapılandırmaları karşılaştırırken ilan fiyatıyla gerçekleşmiş satış fiyatının farklı olabileceğini unutmayın.",
+    "keywords": [
+      "oyuncu bilgisayarı fiyatı",
+      "ikinci el gaming PC",
+      "masaüstü PC değer hesaplama"
+    ],
+    "intent": "oyuncu_pc_fiyatlandirma",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "oyuncu bilgisayarı fiyatı",
+      "ikinci el gaming PC"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-003",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayarın işlemci modeli fiyatı etkiler mi?",
+    "answer": "Evet. İşlemcinin tam modeli, nesli, çekirdek yapısı ve performans sınıfı bilgisayarın kullanım alanını ve değerini etkileyebilir. Aynı ürün ailesindeki işlemciler bile nesil ve güç özellikleri bakımından farklıdır. Ayrıca anakart uyumluluğu, soğutma çözümü ve bilgisayarın diğer bileşenleri de hesaba katılmalıdır. Kesin fiyatı yalnızca işlemci adına göre belirlemek yerine tüm sistemin yapılandırmasını paylaşın.",
+    "keywords": [
+      "masaüstü işlemci fiyatı",
+      "işlemci nesli ikinci el PC",
+      "CPU modeli öğrenme"
+    ],
+    "intent": "pc_islemci_degeri",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "masaüstü işlemci fiyatı",
+      "işlemci nesli ikinci el PC"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-004",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Ekran kartı olmayan masaüstü bilgisayar satılabilir mi?",
+    "answer": "Ekran kartı bulunmayan masaüstü bilgisayar da satılabilir; uygunluğu işlemcide tümleşik grafik birimi olup olmamasına, sistemin kullanım amacına ve alıcının değerlendirme kapsamına bağlıdır. Ofis ve temel kullanım için tasarlanmış sistemler ayrı, harici ekran kartı gerektiren oyun sistemleri ayrı değerlendirilir. Kart sonradan çıkarıldıysa bunu açıkça belirtin ve varsa uyumlu parçaların bilgisayarla birlikte verilip verilmeyeceğini yazın.",
+    "keywords": [
+      "ekran kartsız bilgisayar satışı",
+      "GPU olmayan masaüstü",
+      "ofis bilgisayarı ikinci el"
+    ],
+    "intent": "ekran_kartsiz_pc",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ekran kartsız bilgisayar satışı",
+      "GPU olmayan masaüstü"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-005",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Ekran kartı yükseltilmiş bir oyuncu PC'si daha değerli olur mu?",
+    "answer": "Daha güçlü bir ekran kartı oyun ve grafik işlerinde performansı artırabilir, ancak yükseltme her zaman maliyetinin tamamını ikinci el fiyatına eklemez. Kartın tam modeli, yaşı, soğutması, güç tüketimi ve sistemdeki işlemciyle dengesi önemlidir. Güç kaynağının yeterli kapasitede olması ve bağlantı uyumluluğu da kontrol edilmelidir. Yapılan yükseltmeyi ve varsa orijinal parçaları doğru şekilde belirtin.",
+    "keywords": [
+      "ekran kartı yükseltme fiyat etkisi",
+      "oyuncu PC ekran kartı değeri",
+      "GPU ikinci el fiyatı"
+    ],
+    "intent": "pc_gpu_yukseltme",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ekran kartı yükseltme fiyat etkisi",
+      "oyuncu PC ekran kartı değeri"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-006",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayarın RAM miktarı ve türü nasıl fiyatı etkiler?",
+    "answer": "RAM kapasitesi ve bellek nesli sistemin performansını ve yükseltme seçeneklerini etkileyebilir. DDR4 ve DDR5 gibi farklı bellek türleri her anakartla uyumlu değildir; kapasite kadar hız, kanal düzeni ve boş yuva sayısı da önem taşıyabilir. Satış açıklamasında toplam RAM miktarını ve mümkünse modül yapılandırmasını belirtin. RAM yükseltmesinin değere katkısı bilgisayarın diğer özelliklerine ve talebe göre değişir.",
+    "keywords": [
+      "masaüstü RAM fiyat etkisi",
+      "DDR4 DDR5 farkı",
+      "PC RAM kapasitesi"
+    ],
+    "intent": "masaustu_ram_fiyati",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "masaüstü RAM fiyat etkisi",
+      "DDR4 DDR5 farkı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-007",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "SSD veya HDD bulunması masaüstü PC'nin değerini değiştirir mi?",
+    "answer": "Depolama türü ve kapasitesi sistemin açılışını, uygulama hızını ve dosya saklama alanını etkiler. SSD çoğu günlük kullanımda daha hızlı tepki sağlarken HDD daha düşük maliyetle yüksek kapasite sunabilir. Depolama biriminin sağlık durumu, kapasitesi ve sistemde kaç sürücü bulunduğu da önemlidir. Satıştan önce kişisel verilerinizi güvenli biçimde yedekleyip silin; sürücünün durumu hakkında emin olmadığınız bir sağlık değerini kesinmiş gibi aktarmayın.",
+    "keywords": [
+      "SSD HDD masaüstü fiyatı",
+      "PC depolama kapasitesi",
+      "ikinci el SSD sağlık durumu"
+    ],
+    "intent": "pc_depolama_degeri",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "SSD HDD masaüstü fiyatı",
+      "PC depolama kapasitesi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-008",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayarın anakart modeli neden önemlidir?",
+    "answer": "Anakart, desteklenen işlemci ve bellek türü, depolama yuvaları, bağlantılar ve gelecekteki yükseltme seçenekleri üzerinde belirleyicidir. Aynı işlemciyi kullanan iki sistem, anakartlarının özellikleri ve kalitesi nedeniyle farklı değerlendirilebilir. Anakart modelini bilmiyorsanız sistem bilgisi araçlarından veya kart üzerindeki model yazısından kontrol edebilirsiniz. Modeli doğrulamadan yükseltme uyumluluğu ya da ek özellikler hakkında kesin iddialarda bulunmayın.",
+    "keywords": [
+      "anakart modeli nasıl öğrenilir",
+      "anakart PC fiyatını etkiler mi",
+      "masaüstü yükseltme uyumluluğu"
+    ],
+    "intent": "pc_anakart_modeli",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "anakart modeli nasıl öğrenilir",
+      "anakart PC fiyatını etkiler mi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-009",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Güç kaynağının watt değeri ve kalitesi ikinci el değerini etkiler mi?",
+    "answer": "Güç kaynağı, sistem bileşenlerine kararlı ve yeterli enerji sağlamalıdır. Watt değeri tek başına kaliteyi göstermez; model, verimlilik sertifikası, bağlantılar, koruma özellikleri ve kullanım geçmişi de önemlidir. Özellikle güçlü ekran kartlı sistemlerde uygun güç kaynağı önem taşır. Etiket bilgilerini paylaşabiliyorsanız marka ve modelini belirtin; güç kaynağının kapasitesini doğrulamadan yalnızca tahmini bir değer yazmayın.",
+    "keywords": [
+      "PSU ikinci el PC değeri",
+      "güç kaynağı watt değeri",
+      "oyuncu bilgisayarı PSU"
+    ],
+    "intent": "pc_guc_kaynagi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "PSU ikinci el PC değeri",
+      "güç kaynağı watt değeri"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-010",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Sıvı soğutmalı oyuncu bilgisayarı daha yüksek fiyat eder mi?",
+    "answer": "Sıvı soğutma bazı sistemlerde sıcaklık ve gürültü yönetimine katkı sağlayabilir; ancak tek başına yüksek ikinci el fiyatı anlamına gelmez. Soğutucunun modeli, yaşı, montajı, pompa sesi, sızıntı belirtisi ve bakım geçmişi önemlidir. Hava soğutma da doğru tasarlanmış sistemlerde etkili olabilir. Soğutma türünü fiyatın tek belirleyicisi olarak görmek yerine işlemci, ekran kartı ve genel sistem durumuyla birlikte değerlendirin.",
+    "keywords": [
+      "sıvı soğutmalı PC fiyatı",
+      "oyuncu bilgisayarı soğutma",
+      "AIO soğutucu ikinci el"
+    ],
+    "intent": "pc_sivi_sogutma",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "sıvı soğutmalı PC fiyatı",
+      "oyuncu bilgisayarı soğutma"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-011",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayarın kasasında çizik veya ezik olması fiyatı düşürür mü?",
+    "answer": "Kasa üzerindeki hafif çizikler çoğu zaman yapısal hasarla aynı şekilde değerlendirilmez. Ezilme, kırık bağlantı noktaları, eğilmiş paneller, eksik vidalar veya hava akışını engelleyen hasarlar daha önemli olabilir. Fotoğraflarda görünen kusurları açıkça gösterin ve cihazın iç bileşenlerini etkileyen bir darbe yaşandıysa bunu belirtin. Kozmetik durum fiyatı etkileyebilir; ancak teknik özellikler ve çalışma kararlılığı da önemlidir.",
+    "keywords": [
+      "çizik bilgisayar kasası",
+      "kasa hasarı ikinci el fiyat",
+      "oyuncu kasası satışı"
+    ],
+    "intent": "pc_kasa_kondisyonu",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "çizik bilgisayar kasası",
+      "kasa hasarı ikinci el fiyat"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-012",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayarım açılmıyorsa satabilir miyim?",
+    "answer": "Açılmayan masaüstü sistemin satılabilirliği arızanın kapsamına ve alıcının arızalı cihaz kabul edip etmediğine bağlıdır. Sorun güç kablosu, güç kaynağı, RAM, anakart veya başka bir bileşenden kaynaklanabilir; test yapılmadan arızalı parçayı kesin olarak söylemek doğru olmaz. Bilgisayarın verdiği ışık, ses veya hata belirtilerini açıklayın. Elektrik güvenliği konusunda emin değilseniz kasayı açıp güç kaynağını kendiniz onarmaya çalışmayın.",
+    "keywords": [
+      "açılmayan masaüstü satılır mı",
+      "bozuk oyuncu bilgisayarı",
+      "PC arıza değerlendirme"
+    ],
+    "intent": "acilmayan_masaustu_pc",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "açılmayan masaüstü satılır mı",
+      "bozuk oyuncu bilgisayarı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-013",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Oyuncu bilgisayarım oyun sırasında kapanıyorsa bunu bildirmeli miyim?",
+    "answer": "Evet. Oyun veya yüksek yük altında kapanma; sıcaklık, güç kaynağı, ekran kartı, bellek veya yazılımla ilgili farklı nedenlerden kaynaklanabilir. Sorunun hangi koşullarda oluştuğunu, ne sıklıkta tekrarlandığını ve yakın zamanda parça değişimi yapılıp yapılmadığını açıklayın. Kesin tanı konmadıysa bir parçayı arızalı diye kesinleştirmeyin. Kararlılık sorunu alım değerlendirmesini ve olası onarım maliyetini etkileyebilir.",
+    "keywords": [
+      "oyun oynarken bilgisayar kapanıyor",
+      "yük altında PC kapanması",
+      "oyuncu bilgisayarı arızası"
+    ],
+    "intent": "oyuncu_pc_yuk_altinda_kapanma",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "oyun oynarken bilgisayar kapanıyor",
+      "yük altında PC kapanması"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-014",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayar çok ses çıkarıyorsa satış fiyatı etkilenir mi?",
+    "answer": "Yüksek fan sesi, titreşim veya tıkırtı fan aşınması, gevşek montaj, toz birikimi ya da depolama birimi gibi farklı kaynaklardan gelebilir. Yük altında fanların hızlanması normal olabilir; sürtünme sesi veya aşırı ısınma ayrıca incelenmelidir. Bilinen belirtileri ve yapılan bakımları açıklayın. Sesin kaynağını doğrulamadan kesin arıza tanısı vermeyin; sorun cihazın kondisyon değerlendirmesini etkileyebilir.",
+    "keywords": [
+      "bilgisayar fan sesi",
+      "oyuncu PC gürültüsü",
+      "masaüstü bilgisayar bakım geçmişi"
+    ],
+    "intent": "masaustu_pc_gurultu",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "bilgisayar fan sesi",
+      "oyuncu PC gürültüsü"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-015",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayarın monitörü fiyata dahil midir?",
+    "answer": "Masaüstü bilgisayarın fiyat teklifine monitörün dahil olup olmadığı açıkça belirtilmelidir. Kasa, monitör, klavye, fare ve diğer aksesuarlar ayrı ayrı değerlendirilebilir; her alıcı tüm parçaları birlikte kabul etmeyebilir. Monitör dahilse boyutunu, çözünürlüğünü, yenileme hızını ve görünen kusurlarını paylaşın. Teklif veya ilan kapsamını netleştirmek, sonradan parça dahil mi değil mi anlaşmazlığını önlemeye yardımcı olur.",
+    "keywords": [
+      "monitörlü masaüstü bilgisayar satışı",
+      "oyuncu PC seti fiyatı",
+      "bilgisayar aksesuarları dahil mi"
+    ],
+    "intent": "pc_monitor_dahil_mi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "monitörlü masaüstü bilgisayar satışı",
+      "oyuncu PC seti fiyatı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-016",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Oyuncu bilgisayarını monitör ve aksesuarlarla set olarak mı satmalıyım?",
+    "answer": "Set olarak satış, alıcının kuruluma hazır bir paket almasını kolaylaştırabilir; parçaları ayrı satmak ise daha geniş alıcı kitlesine ulaşma olanağı sağlayabilir. Sonuç, sistemin özelliklerine, aksesuarların durumuna, alıcı talebine ve parçaları ayrı satmanın getireceği zaman ve işlem yüküne bağlıdır. Monitör ve aksesuarların marka-modelini, durumunu ve setin içinde nelerin bulunduğunu ayrı ayrı listeleyin. Tek bir yöntemin her zaman daha kârlı olduğu söylenemez.",
+    "keywords": [
+      "oyuncu bilgisayarı set satışı",
+      "PC parçalarını ayrı satmak",
+      "monitör klavye mouse dahil set"
+    ],
+    "intent": "pc_set_ve_ayri_satis",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "oyuncu bilgisayarı set satışı",
+      "PC parçalarını ayrı satmak"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-017",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Kendi topladığım bilgisayarı satarken parça listesini vermeli miyim?",
+    "answer": "Evet. Kendi topladığınız sistemlerde işlemci, ekran kartı, anakart, RAM, depolama, güç kaynağı, kasa ve soğutucu listesini paylaşmak alıcının sistemi anlamasını sağlar. Parçaların tam modelini biliyorsanız belirtin; emin olmadığınız değerleri tahmin etmeyin. Parçaların ne zaman alındığı, garanti durumu ve yapılan değişiklikler de faydalı olabilir. Fatura veya seri numarası gibi bilgileri paylaşırken kişisel verileri ve hassas tanımlayıcıları açık etmeyin.",
+    "keywords": [
+      "toplama bilgisayar satmak",
+      "PC parça listesi hazırlama",
+      "custom PC ikinci el satış"
+    ],
+    "intent": "toplama_pc_parca_listesi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "toplama bilgisayar satmak",
+      "PC parça listesi hazırlama"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-018",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Toplama bilgisayarda farklı markalardan parçalar olması sorun mudur?",
+    "answer": "Bir sistemde farklı markaların parçalarının kullanılması normaldir; önemli olan parçaların birbiriyle uyumlu olması, doğru kurulması ve kararlı çalışmasıdır. İşlemci-anakart soketi, RAM uyumluluğu, ekran kartı için kasa alanı ve güç kaynağı bağlantıları gibi konular kontrol edilmelidir. Markaların aynı olmaması tek başına kalite veya değer göstergesi değildir. Bilinen uyumluluk sorunlarını, değişiklikleri ve test sırasında ortaya çıkan problemleri açıkça belirtin.",
+    "keywords": [
+      "farklı marka PC parçaları",
+      "toplama bilgisayar uyumluluğu",
+      "PC parça uyumu kontrolü"
+    ],
+    "intent": "toplama_pc_uyumluluk",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "farklı marka PC parçaları",
+      "toplama bilgisayar uyumluluğu"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-019",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayarın parçaları yükseltildiyse eski parçaları da vermeli miyim?",
+    "answer": "Eski parçaların dahil edilmesi zorunlu değildir; satışın kapsamına ve taraflar arasındaki anlaşmaya bağlıdır. Orijinal bileşenler elinizdeyse, bunları ayrıca vermek veya saklamak istediğinizi önceden netleştirin. İlan veya teklif açıklamasında hangi parçaların sisteme dahil olduğunu yazın. Eski parçalar çalışır durumdaysa modellerini ve durumlarını belirtmek, paket içeriğinin doğru anlaşılmasına yardımcı olur.",
+    "keywords": [
+      "PC yükseltme sonrası eski parçalar",
+      "bilgisayar parçaları dahil mi",
+      "toplama PC satış kapsamı"
+    ],
+    "intent": "pc_eski_parcalar",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "PC yükseltme sonrası eski parçalar",
+      "bilgisayar parçaları dahil mi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-020",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayarımın garantisi devam ediyorsa bunu nasıl göstermeliyim?",
+    "answer": "Garanti devam ediyorsa satın alma tarihi, garanti süresi ve kapsamına ilişkin doğrulayabildiğiniz bilgileri paylaşabilirsiniz. Hazır sistemlerde garanti tüm bilgisayarı kapsayabilir; ayrı alınmış parçalarda ise her bileşenin koşulu farklı olabilir. Garanti devri veya fatura gerekliliği satıcıya ve üreticinin koşullarına göre değişebilir. Belge paylaşırken adres, ödeme bilgisi ve diğer kişisel verileri gereksiz yere açık etmeyin.",
+    "keywords": [
+      "oyuncu PC garanti durumu",
+      "bilgisayar parça garantisi",
+      "ikinci el PC faturası"
+    ],
+    "intent": "masaustu_pc_garanti",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "oyuncu PC garanti durumu",
+      "bilgisayar parça garantisi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-021",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayar satmadan önce BIOS veya işletim sistemini sıfırlamalı mıyım?",
+    "answer": "Öncelikle önemli dosyalarınızı yedekleyin, kişisel hesaplardan çıkış yapın ve depolama birimindeki verileri güvenli biçimde silin. İşletim sistemini yeniden kurmak veya sıfırlamak kişisel verileri koruma sürecinin bir parçası olabilir; ancak kullanılan yöntem depolama türüne ve işletim sistemine bağlıdır. BIOS ayarlarını varsayılana döndürmek, dosyaları silme işlemiyle aynı şey değildir. Kurumsal cihazlarda kurumun BT ve veri güvenliği prosedürlerini izleyin.",
+    "keywords": [
+      "masaüstü bilgisayar verilerini silme",
+      "PC fabrika ayarları",
+      "BIOS sıfırlama veri siler mi"
+    ],
+    "intent": "pc_satis_oncesi_veri_silme",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "masaüstü bilgisayar verilerini silme",
+      "PC fabrika ayarları"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-022",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü PC'nin seri numarasını ilan fotoğraflarında göstermeli miyim?",
+    "answer": "Seri numarası ve ürün etiketleri cihazı tanımlamaya yarayan bilgiler içerebilir. Genel ilanlarda bu bilgileri açıkça göstermemek, ilk değerlendirme için de yalnızca gerekli teknik bilgileri paylaşmak daha temkinli bir yaklaşımdır. Gerekli bir doğrulama yapılacaksa bilgiyi doğrulanmış alıcıyla uygun kanaldan paylaşmayı değerlendirin. Fotoğraflarda etiketleri bulanıklaştırabilir, fakat model adının görünür kalmasını sağlayabilirsiniz.",
+    "keywords": [
+      "masaüstü seri numarası paylaşmak",
+      "PC etiketi fotoğrafı",
+      "bilgisayar ilanında gizlilik"
+    ],
+    "intent": "pc_seri_numarasi_gizliligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "masaüstü seri numarası paylaşmak",
+      "PC etiketi fotoğrafı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-023",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Kurumsal masaüstü bilgisayarları satmadan önce nelere dikkat edilmeli?",
+    "answer": "Kurumsal bilgisayarlarda mülkiyet ve satış yetkisi doğrulanmalı, envanter kayıtlarıyla cihazlar eşleştirilmeli ve kurum verileri onaylı süreçle silinmelidir. Cihazlarda lisanslı yazılımlar, yönetim araçları veya uzaktan erişim yapılandırmaları bulunabilir; BT ekibi bunları kurum politikasına göre kaldırmalı veya devretmelidir. Seri numarası ve demirbaş bilgileri kurum içinde güvenli biçimde tutulmalı, alım kapsamı ve teslim tutanağı netleştirilmelidir.",
+    "keywords": [
+      "şirket masaüstü bilgisayarı satışı",
+      "kurumsal PC envanteri",
+      "kurumsal cihaz veri silme"
+    ],
+    "intent": "kurumsal_masaustu_satisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "şirket masaüstü bilgisayarı satışı",
+      "kurumsal PC envanteri"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-024",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Birden fazla masaüstü bilgisayarı toplu olarak satabilir miyiz?",
+    "answer": "Birden çok masaüstü bilgisayarın toplu değerlendirilmesi için adet, marka-model, temel donanım yapılandırması ve çalışma durumunu içeren bir envanter hazırlayın. Cihazlar aynı görünse bile işlemci, RAM, depolama ve kondisyon farklı olabilir; mümkünse her cihazı ayrı satırda kaydedin. Toplu alımın kabulü, inceleme yöntemi, lojistik ve ticari koşullar alıcıyla önceden netleştirilmelidir. Kesin teklif, gerçek cihaz listesi ve inceleme sonrasında değişebilir.",
+    "keywords": [
+      "çok sayıda masaüstü bilgisayar satmak",
+      "kurumsal bilgisayar toplu alımı",
+      "PC envanter listesi"
+    ],
+    "intent": "toplu_masaustu_satisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "çok sayıda masaüstü bilgisayar satmak",
+      "kurumsal bilgisayar toplu alımı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-025",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Masaüstü bilgisayar satmak mı, parçalarını ayrı satmak mı daha mantıklı?",
+    "answer": "Bütün sistemi satmak alıcı için kuruluma hazır bir çözüm sunabilir ve tek işlemde elden çıkarmayı kolaylaştırır. Parçaları ayrı satmak bazı bileşenlere özel talep olduğunda seçenek olabilir; ancak test, ilan, paketleme ve farklı alıcılarla iletişim daha fazla zaman gerektirir. Sistem çalışır durumdaysa bütün olarak değerlendirmek pratik olabilir; arızalı veya çok dengesiz yapılandırmalarda parça bazlı değerlendirme düşünülebilir. En iyi yöntem cihazın durumuna ve piyasa talebine bağlıdır.",
+    "keywords": [
+      "PC parçalarını ayrı satmak mı",
+      "masaüstü bilgisayar komple satışı",
+      "arızalı PC parça değeri"
+    ],
+    "intent": "pc_tam_sistem_ve_parca_satisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "PC parçalarını ayrı satmak mı",
+      "masaüstü bilgisayar komple satışı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-026",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Eski masaüstü bilgisayarımı satamıyorsam ne yapmalıyım?",
+    "answer": "Önce cihazın çalışır durumunu, modelini ve kullanılabilir parçalarını belirleyin; çok eski sistemlerde ekonomik değer sınırlı olabilir. Cihazı güvenli şekilde kullanmak veya onarmak mümkün değilse yerel elektronik atık toplama ve yetkili geri dönüşüm seçeneklerini araştırın. Kişisel verileri içeren diskleri cihazla birlikte bırakmadan önce güvenli veri silme veya uygun imha yöntemini değerlendirin. Elektronik atığı evsel çöpe atmayın; yerel kurallara uygun hareket edin.",
+    "keywords": [
+      "eski masaüstü bilgisayar ne yapılır",
+      "çalışmayan PC geri dönüşüm",
+      "bilgisayar elektronik atık"
+    ],
+    "intent": "eski_masaustu_pc_degerlendirme",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "eski masaüstü bilgisayar ne yapılır",
+      "çalışmayan PC geri dönüşüm"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-PC-027",
+    "language": "tr",
+    "category": "masaustu_ve_oyuncu_pc",
+    "question": "Oyuncu bilgisayarının sıcaklık ve performans testleri satış öncesinde neden önemlidir?",
+    "answer": "Yük altında sıcaklık ve kararlılık testleri, sistemin yalnızca masaüstünde açılmasından daha fazla bilgi sağlayabilir. İşlemci ve ekran kartı sıcaklıkları, beklenmeyen kapanma, görüntü hataları, aşırı fan sesi ve performans düşüşü gibi belirtiler gözlenebilir. Test sonuçları kullanılan programa, ortam sıcaklığına ve donanım yapılandırmasına bağlıdır; tek bir ölçüm bütün arızaları dışlamaz. Test yapıldıysa kullanılan koşulları ve bilinen sorunları dürüstçe açıklayın.",
+    "keywords": [
+      "oyuncu bilgisayarı test etme",
+      "GPU CPU sıcaklık testi",
+      "PC performans kontrolü"
+    ],
+    "intent": "oyuncu_pc_testleri",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "oyuncu bilgisayarı test etme",
+      "GPU CPU sıcaklık testi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  }
+]
