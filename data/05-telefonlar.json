@@ -1,0 +1,629 @@
+[
+  {
+    "id": "IKN-TEL-001",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "İkinci el telefonumu satmak için hangi bilgileri hazırlamalıyım?",
+    "answer": "Telefonun marka ve tam modelini, depolama kapasitesini, renk seçeneğini, pil durumunu ve bilinen arızalarını not edin. Ekran, kasa, kameralar, hoparlör, mikrofon, şarj bağlantısı ve biyometrik özelliklerin çalışmasını kontrol edebiliyorsanız sonuçları dürüstçe paylaşın. Kutu, kablo veya adaptör gibi aksesuarları da belirtin. Seri numarası, IMEI veya hesap parolası gibi hassas bilgileri herkese açık paylaşmayın; ilk değerlendirme için temel model bilgileri genellikle daha uygundur.",
+    "keywords": [
+      "ikinci el telefon satmak",
+      "telefon model bilgisi",
+      "telefon satış hazırlığı"
+    ],
+    "intent": "telefon_satis_hazirligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ikinci el telefon satmak",
+      "telefon model bilgisi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-002",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonumun tam modelini ve depolama kapasitesini nasıl öğrenebilirim?",
+    "answer": "Android telefonlarda Ayarlar bölümündeki Telefon hakkında veya Cihaz hakkında alanında model adı ve bazı donanım bilgileri bulunur; menü isimleri üreticiye göre değişebilir. iPhone'da Ayarlar > Genel > Hakkında bölümünden model adı, model numarası ve kapasite gibi bilgileri kontrol edebilirsiniz. Kutu üzerindeki bilgiler yardımcı olabilir ancak cihazın kendisindeki bilgilerle karşılaştırın. Emin olmadığınız model varyantını tahmin ederek yazmayın.",
+    "keywords": [
+      "telefon modelini öğrenme",
+      "telefon depolama kapasitesi",
+      "iPhone model bilgisi",
+      "Android model numarası"
+    ],
+    "intent": "telefon_modeli_ogrenme",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "telefon modelini öğrenme",
+      "telefon depolama kapasitesi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-003",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "İkinci el telefonun fiyatı nasıl belirlenir?",
+    "answer": "Telefonun marka ve modeli, depolama kapasitesi, yaşı, pil sağlığı, ekran ve kasa durumu, kamera ve bağlantı işlevleri ile onarım geçmişi fiyatı etkileyebilir. Aynı modelin farklı bellek veya bölge varyantları bulunabilir. Garanti ve aksesuarlar da değerlendirmeye katkı sağlayabilir. Benzer ilanlardaki istenen fiyatlar gerçekleşen satış tutarlarıyla aynı olmayabilir; kesin teklif cihazın durumu ve alıcının güncel koşulları incelendiğinde netleşir.",
+    "keywords": [
+      "ikinci el telefon fiyatı",
+      "telefon değerini etkileyen faktörler",
+      "telefon fiyat hesaplama"
+    ],
+    "intent": "telefon_fiyatlandirma",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ikinci el telefon fiyatı",
+      "telefon değerini etkileyen faktörler"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-004",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonun pil sağlığı düşükse satabilir miyim?",
+    "answer": "Pil kapasitesi azalmış telefonlar da alım koşullarına bağlı olarak değerlendirilebilir. Pilin hızlı tükenmesi, beklenmedik kapanma, şişme veya aşırı ısınma gibi belirtileri açıkça belirtin. iPhone'da pil sağlığı bilgisi ayarlarda görülebilir; Android cihazlarda mevcut bilgiler marka ve modele göre değişir. Pilin durumu fiyatı etkileyebilir, ancak tek başına her cihazın kabul edilip edilmeyeceğini belirlemez. Pil şişmesi varsa cihazı kullanmayı veya şarj etmeyi bırakıp güvenli destek alın.",
+    "keywords": [
+      "pil sağlığı düşük telefon satışı",
+      "telefon batarya durumu",
+      "iPhone pil sağlığı",
+      "şişmiş batarya güvenliği"
+    ],
+    "intent": "telefon_pil_sagligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "pil sağlığı düşük telefon satışı",
+      "telefon batarya durumu"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-005",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Ekranı kırık veya çatlak telefon satılabilir mi?",
+    "answer": "Ekranı kırık, çatlak, lekeli veya dokunmatiği düzgün çalışmayan telefonların değerlendirilmesi hasarın türüne ve alıcının arızalı cihaz kabul edip etmediğine bağlıdır. Küçük cam çatlağı ile görüntü panelinin çalışmaması aynı maliyette olmayabilir. Çatlakların yanında dokunmatik, parlaklık ve görüntü sorunlarını da belirtin. Hasarı fotoğraflarda görünür kılın ve cihazı sağlam gibi tanıtmayın; olası onarım maliyeti teklif üzerinde etkili olabilir.",
+    "keywords": [
+      "ekranı kırık telefon satmak",
+      "çatlak telefon fiyatı",
+      "dokunmatiği bozuk telefon"
+    ],
+    "intent": "telefon_kirik_ekran",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ekranı kırık telefon satmak",
+      "çatlak telefon fiyatı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-006",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonum açılmıyor veya şarj olmuyorsa satabilir miyim?",
+    "answer": "Açılmayan ya da şarj almayan telefonun kabul edilmesi arızanın kapsamına ve alıcının değerlendirme politikasına bağlıdır. Sorun kablo, adaptör, şarj bağlantısı, batarya veya iç donanımla ilgili olabilir; test edilmeden neden kesinleştirilemez. Cihazın son durumu, düşme veya sıvı teması geçmişi ve görülen belirtiler hakkında bilgi verin. Sıvı teması şüphesi varsa tekrar tekrar şarja takmayın ve güvenli olmayan onarımlara girişmeyin.",
+    "keywords": [
+      "açılmayan telefon satılır mı",
+      "telefon şarj almıyor",
+      "bozuk telefon değerlendirme"
+    ],
+    "intent": "telefon_acilmiyor",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "açılmayan telefon satılır mı",
+      "telefon şarj almıyor"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-007",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonun kutusu ve orijinal aksesuarları yoksa satış yapabilir miyim?",
+    "answer": "Kutu, kablo veya orijinal adaptörün olmaması tek başına telefonun satılamayacağı anlamına gelmez. Eksik aksesuarlar alım değerlendirmesini etkileyebilir ve teslim kapsamının baştan netleştirilmesi gerekir. Elinizde bulunan aksesuarları belirtin; uyumlu olmayan veya güvenliğinden emin olmadığınız bir adaptörü kullanmayın. Telefonun kendisi, pil ve temel işlevleri alım değerlendirmesinde ayrıca incelenebilir.",
+    "keywords": [
+      "kutusuz telefon satışı",
+      "adaptörsüz telefon satılır mı",
+      "telefon aksesuarları eksik"
+    ],
+    "intent": "telefon_kutu_aksesuar",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "kutusuz telefon satışı",
+      "adaptörsüz telefon satılır mı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-008",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonun çizik veya ezik olması fiyatı düşürür mü?",
+    "answer": "Kozmetik kusurların etkisi çiziklerin derinliğine, eziklerin konumuna ve cihazın işlevlerine zarar verip vermediğine göre değişir. Hafif yüzey izleri ile ekran kırığı, eğilmiş kasa veya hasarlı kamera camı aynı şekilde değerlendirilmez. Kusurları iyi ışıkta fotoğraflayın ve cihazın düşme geçmişi biliniyorsa açıklayın. Fiyatı yalnızca dış görünüş belirlemez; pil, ekran, kameralar ve diğer işlevler de önemlidir.",
+    "keywords": [
+      "çizik telefon fiyatı",
+      "kasası ezik telefon",
+      "telefon kozmetik kondisyon"
+    ],
+    "intent": "telefon_kozmetik_durum",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "çizik telefon fiyatı",
+      "kasası ezik telefon"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-009",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefon satmadan önce fotoğraflarımı ve kişisel verilerimi nasıl korurum?",
+    "answer": "Önce fotoğraf, rehber, mesaj ve diğer önemli dosyalarınızı güvenli bir konuma yedekleyin; yedeğin açılabildiğini kontrol edin. Ardından hesaplardan çıkış yapın, ekran kilidi ve cihaz bulma özelliklerini doğru şekilde kaldırın ve modelin resmi yönergelerine göre fabrika ayarlarına sıfırlama işlemini uygulayın. SIM kartı ve varsa microSD kartı çıkarın. Kurumsal cihazlarda kurumun veri güvenliği prosedürlerini izleyin; sıfırlama tamamlanmadan telefonu teslim etmeyin.",
+    "keywords": [
+      "telefon satmadan önce verileri silme",
+      "telefon fabrika ayarları",
+      "fotoğraf yedekleme",
+      "SIM kart çıkarma"
+    ],
+    "intent": "telefon_veri_guvenligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "telefon satmadan önce verileri silme",
+      "telefon fabrika ayarları"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-010",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonu fabrika ayarlarına döndürmek verilerimi tamamen siler mi?",
+    "answer": "Fabrika ayarlarına sıfırlama, desteklenen modern telefonlarda kullanıcı verilerini kaldırmak için tasarlanmıştır; ancak öncesinde yedekleme, hesaplardan çıkış ve cihazın doğru biçimde devre hazırlanması da önemlidir. İşlem adımları Android üreticisine ve iOS sürümüne göre değişebilir. SD kart, SIM kart veya bulut yedekleri sıfırlama işleminden ayrı olabilir. Cihazı teslim etmeden önce kişisel hesapların kaldırıldığını ve ilk kurulum ekranının geldiğini kontrol edin; emin değilseniz üreticinin resmi yönergelerini izleyin.",
+    "keywords": [
+      "telefon sıfırlama veri silme",
+      "Android fabrika ayarları",
+      "iPhone sıfırlama öncesi"
+    ],
+    "intent": "telefon_fabrika_ayarlari",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "telefon sıfırlama veri silme",
+      "Android fabrika ayarları"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-011",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "iPhone satarken Apple Hesabı ve Bul özelliğini neden kapatmalıyım?",
+    "answer": "iPhone'u devretmeden önce Apple Hesabı'ndan çıkış yapmak ve Bul özelliğiyle ilişkili Etkinleştirme Kilidi'ni uygun şekilde kaldırmak gerekir. Aksi durumda cihaz silinmiş olsa bile yeni kullanıcı kurulumu tamamlayamayabilir. Parolanızı alıcıyla paylaşmayın; hesabı kendi cihazınızda ve resmi adımlarla kaldırın. Cihazı teslim etmeden önce kendi hesabınızdan çıktığınızı doğrulayın. Hesaba erişiminiz yoksa kilidi aşmaya çalışmak yerine Apple'ın resmi hesap kurtarma veya destek seçeneklerini kullanın.",
+    "keywords": [
+      "iPhone Bul kapatma",
+      "Apple Hesabı çıkışı",
+      "iPhone etkinleştirme kilidi"
+    ],
+    "intent": "iphone_etkinlestirme_kilidi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "iPhone Bul kapatma",
+      "Apple Hesabı çıkışı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-012",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Android telefon satarken Google hesabını kaldırmak neden önemlidir?",
+    "answer": "Bazı Android cihazlarda fabrika ayarlarına sıfırlama sonrasında önceki Google hesabını doğrulama isteyen Fabrika Ayarlarına Sıfırlama Koruması bulunabilir. Telefonu devretmeden önce üreticinin önerdiği sırayla Google hesabını cihazdan kaldırın, ekran kilidini ve cihaz bulma ayarlarını kontrol edin, ardından sıfırlayın. Menü adımları marka ve Android sürümüne göre farklı olabilir. Hesap parolanızı alıcıya vermeyin; hesabın kaldırıldığını ve cihazın yeni kurulum ekranına geçtiğini doğrulayın.",
+    "keywords": [
+      "Android Google hesabı kaldırma",
+      "FRP kilidi",
+      "telefon fabrika sıfırlama koruması"
+    ],
+    "intent": "android_google_hesabi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "Android Google hesabı kaldırma",
+      "FRP kilidi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-013",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonumun IMEI numarasını ilan veya mesajlarda paylaşmalı mıyım?",
+    "answer": "IMEI, mobil cihazı tanımlamak için kullanılan benzersiz bir numaradır; herkese açık ilanlarda veya sosyal medya gönderilerinde gereksiz yere paylaşmamak daha temkinlidir. İlk fiyat değerlendirmesi için çoğu zaman marka, model, kapasite ve kondisyon bilgileri yeterli olur. Belirli bir doğrulama amacıyla gerekiyorsa IMEI'yi yalnızca güvenilir ve doğrulanmış tarafla uygun kanaldan paylaşmayı değerlendirin. Fotoğraf paylaşırken cihaz kutusundaki veya ayarlardaki tanımlayıcı numaraları gizleyebilirsiniz.",
+    "keywords": [
+      "IMEI numarası paylaşma",
+      "telefon seri numarası güvenliği",
+      "telefon ilanı gizlilik"
+    ],
+    "intent": "telefon_imei_gizliligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "IMEI numarası paylaşma",
+      "telefon seri numarası güvenliği"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-014",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonun faturası veya kutusu yoksa satılabilir mi?",
+    "answer": "Fatura ya da kutunun olmaması her durumda satışa engel değildir; kabul koşulları alıcıya ve cihazın doğrulanmasına göre değişebilir. Mülkiyet, garanti veya satın alma geçmişini kanıtlamak için süreçte belge istenebilir. Elinizde belge varsa paylaşmadan önce adres, ödeme bilgisi ve diğer kişisel verileri koruyun. Fatura bulunmadığını baştan belirtin ve cihazın mülkiyeti konusunda şüphe varsa satış yapmayın.",
+    "keywords": [
+      "faturasız telefon satışı",
+      "kutusuz telefon",
+      "telefon mülkiyet belgesi"
+    ],
+    "intent": "telefon_fatura_kutu",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "faturasız telefon satışı",
+      "kutusuz telefon"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-015",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonumun garantisi devam ediyorsa daha yüksek fiyata satılır mı?",
+    "answer": "Devam eden garanti veya ek koruma planı alıcı açısından avantaj olabilir; ancak fiyat etkisi kalan süreye, garanti kapsamına, devredilebilirliğe, modele ve cihazın kondisyonuna bağlıdır. Garanti durumunu resmi belge veya üretici kanalıyla doğrulayın. Her garanti yeni kullanıcıya aynı koşullarla geçmeyebilir; bunu kontrol etmeden kesin söz vermeyin. Belge paylaşırken kişisel bilgileri gizleyin ve garanti bilgisini cihazın diğer özellikleriyle birlikte değerlendirin.",
+    "keywords": [
+      "garantili telefon ikinci el fiyatı",
+      "telefon garanti devri",
+      "ikinci el telefon faturası"
+    ],
+    "intent": "telefon_garanti",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "garantili telefon ikinci el fiyatı",
+      "telefon garanti devri"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-016",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefon daha önce tamir gördüyse bunu söylemeli miyim?",
+    "answer": "Evet. Ekran, batarya, kamera, şarj bağlantısı veya anakart gibi parçaların değiştiği biliniyorsa onarım geçmişini açıklayın. Onarımın nerede yapıldığı, kullanılan parçanın niteliği ve işlem sonrası bilinen sorunlar değerlendirmeyi etkileyebilir. Servis kaydı varsa kişisel bilgileri gizleyerek ilgili bilgileri paylaşabilirsiniz. Onarım geçmişini saklamak, cihaz incelendiğinde güven kaybına veya teklifin değişmesine neden olabilir.",
+    "keywords": [
+      "tamir görmüş telefon satışı",
+      "telefon ekran değişimi fiyat",
+      "telefon servis geçmişi"
+    ],
+    "intent": "telefon_onarim_gecmisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "tamir görmüş telefon satışı",
+      "telefon ekran değişimi fiyat"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-017",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonun kamerası, hoparlörü veya mikrofonu bozuksa ne yapmalıyım?",
+    "answer": "Kamera odaklama sorunu, bulanık görüntü, çalışmayan hoparlör veya mikrofon arızası telefonun kullanımını etkileyebilir ve değerlendirmeye yansıyabilir. Sorunu mümkünse farklı uygulamalarda deneyerek gözlemleyin; ancak teknik test yapmadıysanız kesin arıza nedeni söylemeyin. Hangi işlevin ne zaman sorun çıkardığını ve arızanın sürekli mi aralıklı mı olduğunu belirtin. Cihazın diğer özellikleri çalışıyor olsa bile bilinen kusurları açıkça paylaşmak doğru değerlendirme sağlar.",
+    "keywords": [
+      "kamerası bozuk telefon",
+      "hoparlörü çalışmayan telefon",
+      "telefon mikrofon arızası"
+    ],
+    "intent": "telefon_donanim_arizalari",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "kamerası bozuk telefon",
+      "hoparlörü çalışmayan telefon"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-018",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Suya dayanıklı telefon suya düştüyse bunu belirtmeli miyim?",
+    "answer": "Evet. Suya veya başka bir sıvıya maruz kalma geçmişini, cihaz çalışmaya devam etse bile açıklayın. Suya dayanıklılık derecesi cihazın her koşulda su geçirmeyeceği anlamına gelmez; yaş, darbe ve önceki onarımlar korumayı etkileyebilir. Islak cihazı şarja takmayın ve ısı uygulayarak kurutmaya çalışmayın. Bilinen belirtileri aktarın; sıvı teması sonrası arızalar zamanla ortaya çıkabileceğinden değerlendirme dikkatle yapılmalıdır.",
+    "keywords": [
+      "suya düşen telefon satışı",
+      "suya dayanıklı telefon hasarı",
+      "telefon sıvı teması"
+    ],
+    "intent": "telefon_sivi_temasi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "suya düşen telefon satışı",
+      "suya dayanıklı telefon hasarı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-019",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Çift SIM veya eSIM desteği telefonun ikinci el değerini etkiler mi?",
+    "answer": "SIM yuvası sayısı, eSIM desteği ve bölgeye özgü model farkları bazı alıcılar için önemli olabilir. Özellikler aynı ürün ailesinde bile ülkeye veya model varyantına göre değişebilir. Telefonun desteklediği SIM yapılandırmasını üreticinin teknik özelliklerinden veya cihaz ayarlarından doğrulayın. Operatör kilidi, ağ uyumluluğu ve cihazın kullanım kısıtları varsa bunları da açıkça belirtin; yalnızca ürün ailesinin adına bakarak desteklenen özellikleri varsaymayın.",
+    "keywords": [
+      "çift SIM telefon satışı",
+      "eSIM desteği ikinci el",
+      "operatör kilitli telefon"
+    ],
+    "intent": "telefon_sim_esim",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "çift SIM telefon satışı",
+      "eSIM desteği ikinci el"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-020",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Operatör kilitli veya taksit borcu bulunan telefonu satabilir miyim?",
+    "answer": "Cihazın operatör kilidi, taksit veya sözleşme durumu satış öncesinde netleştirilmelidir. Kısıtlamalar telefonun başka SIM kartlarla kullanılmasını veya mülkiyet devrini etkileyebilir. Borç, sözleşme ve cihazın yasal durumuyla ilgili bilgileri operatörünüzden doğrulayın; alıcıya kısıtlamaları gizlemeyin. Borçlu veya mülkiyet durumu belirsiz bir cihazı satmadan önce sözleşme şartlarını ve ilgili yükümlülükleri çözümleyin.",
+    "keywords": [
+      "operatör kilitli telefon satmak",
+      "taksitli telefon satışı",
+      "telefon borcu devir"
+    ],
+    "intent": "telefon_operator_kilidi_borc",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "operatör kilitli telefon satmak",
+      "taksitli telefon satışı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-021",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Yurt dışından alınmış telefonun satışı öncesinde neyi kontrol etmeliyim?",
+    "answer": "Yurt dışından alınan telefonlarda model varyantı, Türkiye'deki mobil ağlarla uyumluluk, IMEI kayıt durumu ve garanti koşulları önemli olabilir. Durumu resmi ve güncel kanallardan doğrulayın; kayıt veya kullanım hakkı hakkında tahminde bulunmayın. Bölgeye özgü modellerde SIM, eSIM veya bazı ağ özellikleri farklılaşabilir. Cihazın kaydı ya da kullanım kısıtlaması varsa bunu açıkça belirtin ve kişisel tanımlayıcı numaraları herkese açık paylaşmayın.",
+    "keywords": [
+      "yurt dışı telefon satışı",
+      "IMEI kayıt durumu",
+      "yurt dışı iPhone ikinci el"
+    ],
+    "intent": "telefon_yurt_disi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "yurt dışı telefon satışı",
+      "IMEI kayıt durumu"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-022",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonu satarken SIM kartımı ve hafıza kartımı çıkarmalı mıyım?",
+    "answer": "Evet. Cihazı teslim etmeden önce SIM kartınızı ve telefonunuzda microSD kart varsa onu çıkarın. SIM kartta kişisel telefon numaranız ve operatör hizmetleriniz, hafıza kartında ise fotoğraf ve dosyalarınız bulunabilir. Bulut yedeklerini ve hesapları ayrıca kontrol edin; kartları çıkarmak telefondaki dahili verileri silmez. Cihazı sıfırlama işlemini tamamlayıp hesap kilitlerinin kaldırıldığını doğruladıktan sonra teslim edin.",
+    "keywords": [
+      "telefon satarken SIM kart",
+      "microSD kart çıkarma",
+      "telefon kişisel veriler"
+    ],
+    "intent": "telefon_sim_sd_kart",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "telefon satarken SIM kart",
+      "microSD kart çıkarma"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-023",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Kurumsal telefonları satmadan önce hangi güvenlik adımları uygulanmalı?",
+    "answer": "Kurumsal telefonlarda satış yetkisi ve mülkiyet doğrulanmalı, cihazlar envanterle eşleştirilmeli ve veriler kurumun onaylı prosedürüyle silinmelidir. Mobil cihaz yönetimi, iş profili, uzaktan kilitleme veya kurumsal hesaplar bulunabilir; bunlar yetkili BT ekibi tarafından kaldırılmalı veya devredilmelidir. SIM ve hafıza kartlarını çıkarın, teslim kayıtlarını tutun ve kişisel ya da şirket verilerini açık bırakmayın. Kurum politikasına uygun olmayan kilit aşma yöntemlerini kullanmayın.",
+    "keywords": [
+      "şirket telefonlarını satmak",
+      "kurumsal telefon veri silme",
+      "MDM telefon devri"
+    ],
+    "intent": "kurumsal_telefon_satisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "şirket telefonlarını satmak",
+      "kurumsal telefon veri silme"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-024",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Birden fazla telefonu toplu olarak satmak için nasıl liste hazırlamalıyım?",
+    "answer": "Her cihaz için marka-model, depolama kapasitesi, renk veya varyant, kondisyon, pil durumu, bilinen arızalar ve dahil aksesuarları ayrı satırda kaydedin. Aynı modeldeki cihazların durumları farklı olabileceğinden tek bir genel açıklama yeterli olmayabilir. IMEI ve seri numaralarını herkese açık dosyalarda paylaşmayın; gerekiyorsa kontrollü ve güvenli kanaldan iletin. Toplu değerlendirmede cihaz adedi, teslim koşulları, veri silme ve nihai teklif sürecini önceden netleştirin.",
+    "keywords": [
+      "toplu telefon satışı",
+      "telefon envanter listesi",
+      "şirket cep telefonları alımı"
+    ],
+    "intent": "toplu_telefon_satisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "toplu telefon satışı",
+      "telefon envanter listesi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-025",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefonumu satmak mı, takas etmek mi, geri dönüşüme vermek mi daha mantıklı?",
+    "answer": "Çalışır ve talep gören bir telefonun satışı ekonomik karşılık sağlayabilir; takas yeni cihaz alımında kolaylık sunabilir, geri dönüşüm ise kullanılamayacak veya ekonomik değeri düşük cihazlar için uygun olabilir. Karar cihazın durumu, sunulan teklif, takas koşulları ve yerel geri dönüşüm seçeneklerine bağlıdır. Her durumda kişisel verileri güvenli biçimde silin ve cihazı evsel atığa atmayın. Pil hasarlıysa güvenli teslim ve toplama yönergelerine uyun.",
+    "keywords": [
+      "telefon satmak mı takas mı",
+      "eski telefon geri dönüşüm",
+      "kullanılmayan telefon değerlendirme"
+    ],
+    "intent": "telefon_satis_takas_geri_donusum",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "telefon satmak mı takas mı",
+      "eski telefon geri dönüşüm"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TEL-026",
+    "language": "tr",
+    "category": "telefonlar",
+    "question": "Telefon için teklif almadan önce hangi kontrolleri yapmalıyım?",
+    "answer": "Model ve kapasiteyi doğrulayın; ekran, dokunmatik, kamera, hoparlör, mikrofon, düğmeler, şarj, bağlantılar ve pil durumunu gözden geçirin. Bilinen arızaları, sıvı teması veya onarım geçmişini ve aksesuarları not edin. Kişisel verilerinizi yedekleyin, hesap kilitlerini kaldırın ve cihazı resmi yönergelere göre sıfırlayın. SIM ve hafıza kartlarını çıkarın; IMEI ve hesap bilgilerini herkese açık paylaşmayın. Teklifin ön değerlendirme mi kesin tutar mı olduğunu ve inceleme sonrası hangi koşullarda değişebileceğini öğrenin.",
+    "keywords": [
+      "telefon için teklif alma",
+      "telefon satış kontrol listesi",
+      "telefon satmadan önce yapılacaklar"
+    ],
+    "intent": "telefon_teklif_oncesi_kontrol",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "telefon için teklif alma",
+      "telefon satış kontrol listesi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  }
+]
