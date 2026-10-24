@@ -598,53 +598,5 @@
     "source_url": "https://ikincielaliriz.com/",
     "last_updated": "2026-10-24",
     "review_status": "draft_review_required"
-  },
-  {
-    "id": "IKN-PC-026",
-    "language": "tr",
-    "category": "masaustu_ve_oyuncu_pc",
-    "question": "Eski masaüstü bilgisayarımı satamıyorsam ne yapmalıyım?",
-    "answer": "Önce cihazın çalışır durumunu, modelini ve kullanılabilir parçalarını belirleyin; çok eski sistemlerde ekonomik değer sınırlı olabilir. Cihazı güvenli şekilde kullanmak veya onarmak mümkün değilse yerel elektronik atık toplama ve yetkili geri dönüşüm seçeneklerini araştırın. Kişisel verileri içeren diskleri cihazla birlikte bırakmadan önce güvenli veri silme veya uygun imha yöntemini değerlendirin. Elektronik atığı evsel çöpe atmayın; yerel kurallara uygun hareket edin.",
-    "keywords": [
-      "eski masaüstü bilgisayar ne yapılır",
-      "çalışmayan PC geri dönüşüm",
-      "bilgisayar elektronik atık"
-    ],
-    "intent": "eski_masaustu_pc_degerlendirme",
-    "audience": [
-      "bireysel",
-      "kurumsal"
-    ],
-    "related_questions": [
-      "eski masaüstü bilgisayar ne yapılır",
-      "çalışmayan PC geri dönüşüm"
-    ],
-    "source_url": "https://ikincielaliriz.com/",
-    "last_updated": "2026-10-24",
-    "review_status": "draft_review_required"
-  },
-  {
-    "id": "IKN-PC-027",
-    "language": "tr",
-    "category": "masaustu_ve_oyuncu_pc",
-    "question": "Oyuncu bilgisayarının sıcaklık ve performans testleri satış öncesinde neden önemlidir?",
-    "answer": "Yük altında sıcaklık ve kararlılık testleri, sistemin yalnızca masaüstünde açılmasından daha fazla bilgi sağlayabilir. İşlemci ve ekran kartı sıcaklıkları, beklenmeyen kapanma, görüntü hataları, aşırı fan sesi ve performans düşüşü gibi belirtiler gözlenebilir. Test sonuçları kullanılan programa, ortam sıcaklığına ve donanım yapılandırmasına bağlıdır; tek bir ölçüm bütün arızaları dışlamaz. Test yapıldıysa kullanılan koşulları ve bilinen sorunları dürüstçe açıklayın.",
-    "keywords": [
-      "oyuncu bilgisayarı test etme",
-      "GPU CPU sıcaklık testi",
-      "PC performans kontrolü"
-    ],
-    "intent": "oyuncu_pc_testleri",
-    "audience": [
-      "bireysel",
-      "kurumsal"
-    ],
-    "related_questions": [
-      "oyuncu bilgisayarı test etme",
-      "GPU CPU sıcaklık testi"
-    ],
-    "source_url": "https://ikincielaliriz.com/",
-    "last_updated": "2026-10-24",
-    "review_status": "draft_review_required"
   }
 ]
