@@ -1,0 +1,626 @@
+[
+  {
+    "id": "IKN-MAC-001",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook satmak için hangi bilgileri hazırlamalıyım?",
+    "answer": "MacBook'un modelini ve yaklaşık üretim yılını, ekran boyutunu, işlemci veya Apple çipini, birleşik belleğini, depolama kapasitesini ve pil durumunu not edin. Ekran, kasa, klavye, bağlantı noktaları ve şarj durumu hakkındaki gözlemlerinizi de ekleyin. Orijinal adaptör veya kutu varsa belirtin. Bu bilgiler ilk değerlendirmeyi kolaylaştırır; nihai değer cihazın gerçek durumu ve alım koşullarıyla belirlenir.",
+    "keywords": [
+      "MacBook satmak",
+      "MacBook özelliklerini öğrenme",
+      "Apple laptop değerlendirme"
+    ],
+    "intent": "macbook_satis_hazirligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook satmak",
+      "MacBook özelliklerini öğrenme"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-002",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook'un modelini ve üretim yılını nasıl öğrenebilirim?",
+    "answer": "Apple menüsünden Bu Mac Hakkında bölümünü açarak model adı, çip veya işlemci bilgisi ve macOS sürümünü görebilirsiniz. Bazı modellerde model numarası kasanın altında veya cihaz bilgileri ekranında bulunabilir. Tam model ve yapılandırmayı belirlemek, benzer cihazları karşılaştırırken önemlidir. Seri numarasını herkese açık paylaşmanız gerekmez; ilk değerlendirme için genellikle model ve temel özellikler yeterlidir.",
+    "keywords": [
+      "MacBook modelini öğrenme",
+      "Bu Mac Hakkında",
+      "Mac model yılı"
+    ],
+    "intent": "mac_model_ogrenme",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook modelini öğrenme",
+      "Bu Mac Hakkında"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-003",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "İkinci el MacBook fiyatı hangi özelliklere göre belirlenir?",
+    "answer": "Fiyat değerlendirmesinde model ve yılı, Apple çipinin veya Intel işlemcinin türü, bellek ve depolama kapasitesi, ekran boyutu, pil sağlığı, kozmetik durum ve onarım geçmişi birlikte rol oynar. Aynı model adında farklı yapılandırmalar bulunabilir. Garanti, adaptör ve diğer aksesuarlar da değerlendirmeye katkı sağlayabilir. İnternetteki ilan fiyatları satıcının istediği tutarlardır; gerçekleşen satış fiyatıyla aynı olmayabilir.",
+    "keywords": [
+      "ikinci el MacBook fiyatı",
+      "MacBook değerini etkileyen özellikler",
+      "MacBook fiyat hesaplama"
+    ],
+    "intent": "macbook_fiyatlandirma",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ikinci el MacBook fiyatı",
+      "MacBook değerini etkileyen özellikler"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-004",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "Apple Silicon işlemcili MacBook ile Intel MacBook arasında fiyat farkı olur mu?",
+    "answer": "Apple Silicon kullanan MacBook'lar ile Intel işlemcili modeller performans, enerji verimliliği, desteklenen macOS sürümleri ve uygulama uyumluluğu bakımından farklılaşır. Bu farklar ikinci el talebini ve fiyatı etkileyebilir; ancak her Apple Silicon modelinin her Intel modelinden daha değerli olduğu söylenemez. Tam çip veya işlemci modeli, bellek, depolama, cihazın yaşı ve durumu birlikte karşılaştırılmalıdır.",
+    "keywords": [
+      "Apple Silicon Intel MacBook farkı",
+      "M serisi MacBook ikinci el",
+      "Intel MacBook değeri"
+    ],
+    "intent": "mac_apple_silicon_intel",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "Apple Silicon Intel MacBook farkı",
+      "M serisi MacBook ikinci el"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-005",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook'un pil sağlığı ve şarj döngüsü satış fiyatını etkiler mi?",
+    "answer": "Evet. Pilin maksimum kapasitesi, şarj döngüsü ve kullanım sırasında beklenmedik kapanma gibi belirtiler cihazın kullanılabilirliğini etkileyebilir. Pil bilgilerini macOS'taki Sistem Bilgisi bölümünün Güç alanından veya pil ayarlarından kontrol edebilirsiniz; ekranlar macOS sürümüne göre değişebilir. Pilin yıpranması cihazın mutlaka satılamayacağı anlamına gelmez, ancak durumu doğru bildirmek ve değerlendirmeye dahil etmek gerekir.",
+    "keywords": [
+      "MacBook pil sağlığı",
+      "MacBook şarj döngüsü",
+      "bataryası zayıf MacBook satışı"
+    ],
+    "intent": "macbook_pil_sagligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook pil sağlığı",
+      "MacBook şarj döngüsü"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-006",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook ekranında çizik, leke veya kırık varsa satılabilir mi?",
+    "answer": "Ekranında çizik, leke, görüntü bozulması veya çatlak bulunan MacBook'un değerlendirilmesi kusurun türüne ve kapsamına bağlıdır. Hafif yüzey izleriyle panel çatlağı veya görüntü arızası aynı değildir. Ekran kusurunu fotoğrafla göstermek ve ne zaman ortaya çıktığını açıklamak faydalıdır. Hasarı gizlemek yerine baştan belirtin; ekran onarım maliyeti teklif üzerinde etkili olabilir.",
+    "keywords": [
+      "ekranı kırık MacBook satılır mı",
+      "MacBook ekran lekesi",
+      "MacBook ekran hasarı fiyatı"
+    ],
+    "intent": "macbook_ekran_kusuru",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ekranı kırık MacBook satılır mı",
+      "MacBook ekran lekesi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-007",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook klavyesindeki tuşlar çalışmıyorsa teklif alabilir miyim?",
+    "answer": "Çalışmayan, takılan veya çift karakter yazan tuşlar klavye mekanizması, sıvı teması ya da başka bir arızayla ilişkili olabilir. Hangi tuşların etkilendiğini ve sorunun sürekli olup olmadığını açıklayın. Bazı modellerde klavye onarımı maliyetli olabilir; bu nedenle arızanın kapsamı değerlendirmeyi etkileyebilir. Cihazı temizlemek için tuşları zorla sökmeyin ve bilmediğiniz bir arızanın nedenini kesinmiş gibi belirtmeyin.",
+    "keywords": [
+      "MacBook klavye arızası",
+      "çalışmayan MacBook tuşları",
+      "klavyesi bozuk MacBook satışı"
+    ],
+    "intent": "macbook_klavye_arizasi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook klavye arızası",
+      "çalışmayan MacBook tuşları"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-008",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook şarj olmuyorsa veya açılmıyorsa satılabilir mi?",
+    "answer": "Açılmayan veya şarj almayan MacBook bazı alıcılar tarafından onarım ya da parça değerlendirmesi için kabul edilebilir; bu, alım kapsamına bağlıdır. Sorunun adaptör, kablo, batarya, bağlantı noktası veya iç donanımdan kaynaklandığı test edilmeden kesin söylenemez. Şarj ışığı, ekrandaki belirtiler ve daha önce yapılan işlemler hakkında bildiklerinizi paylaşın. Cihazda sıvı teması şüphesi varsa tekrar tekrar şarja takmayın.",
+    "keywords": [
+      "açılmayan MacBook satılır mı",
+      "MacBook şarj almıyor",
+      "bozuk MacBook değerlendirme"
+    ],
+    "intent": "macbook_acilmiyor",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "açılmayan MacBook satılır mı",
+      "MacBook şarj almıyor"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-009",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook'un orijinal adaptörü veya kutusu yoksa satabilir miyim?",
+    "answer": "Orijinal kutu veya adaptörün bulunmaması tek başına MacBook'un satılamayacağı anlamına gelmez. Eksik aksesuarlar değerlendirmeyi etkileyebilir; özellikle cihazı güvenli biçimde test etmek ve şarj etmek için uygun adaptör gerekebilir. USB-C veya MagSafe bağlantı türü modele göre değiştiğinden uyumlu güç adaptörü kullanılmalıdır. Elinizdeki aksesuarları ve eksikleri açıkça belirtin; uyumsuz bir adaptörle deneme yapmayın.",
+    "keywords": [
+      "adaptörsüz MacBook satılır mı",
+      "kutusuz MacBook satışı",
+      "MacBook şarj adaptörü eksik"
+    ],
+    "intent": "macbook_adaptor_kutu",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "adaptörsüz MacBook satılır mı",
+      "kutusuz MacBook satışı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-010",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook'ta iCloud hesabından ve Bul özelliğinden neden çıkış yapmalıyım?",
+    "answer": "Cihazı devretmeden önce Apple Hesabı'ndan çıkış yapmak ve Bul özelliğiyle ilişkili etkinleştirme kilidini uygun şekilde kaldırmak, yeni kullanıcının cihazı etkinleştirebilmesi için önemlidir. Kilit açık kalırsa Mac'in yeniden kurulması tek başına sorunu çözmeyebilir. Parolanızı alıcıyla paylaşmayın; hesabı kendi cihazınızdan kaldırın ve Apple'ın resmi yönergelerini izleyin. Kurumsal cihazlarda bu işlem kurumun yetkili BT ekibiyle koordine edilmelidir.",
+    "keywords": [
+      "MacBook iCloud çıkışı",
+      "Mac etkinleştirme kilidi",
+      "Bul özelliğini kapatma"
+    ],
+    "intent": "mac_activation_lock",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook iCloud çıkışı",
+      "Mac etkinleştirme kilidi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-011",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook satmadan önce dosyalarımı nasıl güvenli biçimde silmeliyim?",
+    "answer": "Önemli dosyalarınızı önce ayrı bir konuma yedekleyin ve yedeğin açılabildiğini kontrol edin. Ardından macOS sürümünüze ve Mac modelinize uygun Apple yönergeleriyle tüm içerikleri ve ayarları silme veya diski güvenli biçimde temizleme sürecini uygulayın. Apple çipli ve bazı yeni Intel Mac'lerde Tüm İçerikleri ve Ayarları Sil seçeneği bulunabilir; her modelde aynı yöntem geçerli değildir. Hesaplardan çıkış yapın ve kişisel verilerin silindiğini doğrulamadan cihazı teslim etmeyin.",
+    "keywords": [
+      "MacBook satmadan önce verileri silme",
+      "Mac Tüm İçerikleri ve Ayarları Sil",
+      "macOS fabrika ayarları"
+    ],
+    "intent": "mac_veri_silme",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook satmadan önce verileri silme",
+      "Mac Tüm İçerikleri ve Ayarları Sil"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-012",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook'u fabrika ayarlarına döndürmek iCloud kilidini de kaldırır mı?",
+    "answer": "Fabrika ayarlarına sıfırlama ile Apple Hesabı'na bağlı etkinleştirme kilidini kaldırma aynı işlem değildir. Model ve macOS sürümüne uygun silme adımlarını uygularken Apple Hesabı'ndan çıkış ve Bul ayarlarını da doğru şekilde tamamlamak gerekir. Kilitli bir cihazı teslim etmek yeni kullanıcının kurulum yapmasını engelleyebilir. Hesaba erişiminiz yoksa kilidi aşmaya çalışmak yerine Apple'ın resmi hesap kurtarma veya destek süreçlerini kullanın.",
+    "keywords": [
+      "Mac fabrika ayarları iCloud kilidi",
+      "MacBook etkinleştirme kilidi kaldırma",
+      "Mac sıfırlama öncesi hesap"
+    ],
+    "intent": "mac_reset_activation_lock",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "Mac fabrika ayarları iCloud kilidi",
+      "MacBook etkinleştirme kilidi kaldırma"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-013",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "Kurumsal MacBook'ta MDM veya uzaktan yönetim varsa satış öncesi ne yapılmalı?",
+    "answer": "Şirket tarafından yönetilen Mac'lerde mobil cihaz yönetimi (MDM), otomatik kayıt veya kurumsal güvenlik yapılandırmaları bulunabilir. Cihazı silmek bu kaydı her zaman kaldırmaz; yeni kurulumda kurum yönetimine yeniden bağlanabilir. Satış öncesinde kurumun yetkili BT ekibi cihazı envanterden ve yönetim sistemlerinden doğru prosedürle çıkarmalı, verileri de kurum politikasına göre silmelidir. Yetki olmadan yönetim kilitlerini aşmaya çalışmayın.",
+    "keywords": [
+      "MacBook MDM kaldırma",
+      "kurumsal Mac satışı",
+      "Apple Business Manager cihaz devri"
+    ],
+    "intent": "mac_mdm_kurumsal",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook MDM kaldırma",
+      "kurumsal Mac satışı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-014",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook'un belleği veya SSD'si sonradan yükseltilebilir mi?",
+    "answer": "Yükseltme imkânı modele göre değişir. Birçok Apple Silicon MacBook'ta birleşik bellek ve dahili depolama sonradan kullanıcı tarafından yükseltilemez; bazı eski Intel modellerinde ise belirli bileşenler değiştirilebilir. Kesin yanıt için modelin teknik özellikleri ve servis belgeleri kontrol edilmelidir. Satış açıklamasında mevcut bellek ve depolama kapasitesini belirtin; yükseltilebilirlik hakkında model doğrulanmadan kesin söz vermeyin.",
+    "keywords": [
+      "MacBook RAM yükseltme",
+      "MacBook SSD değişimi",
+      "Apple Silicon bellek yükseltme"
+    ],
+    "intent": "macbook_yukseltme",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook RAM yükseltme",
+      "MacBook SSD değişimi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-015",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "iMac satarken ekranın durumu ve boyutu fiyatı etkiler mi?",
+    "answer": "Evet. iMac'te ekran, cihazın temel parçalarından biridir; ekran boyutu, çözünürlük, parlaklık, renk görünümü, leke, ölü piksel ve çatlak gibi unsurlar değerlendirmeyi etkileyebilir. Ayrıca model yılı, işlemci veya Apple çipi, bellek, depolama ve genel çalışma durumu önemlidir. Ekran kusurlarını farklı arka planlarda fotoğraflamak ve belirtileri açıkça anlatmak ilk değerlendirmeyi kolaylaştırır.",
+    "keywords": [
+      "iMac ekran durumu fiyatı",
+      "iMac satışı",
+      "iMac ekran lekesi"
+    ],
+    "intent": "imac_ekran_fiyati",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "iMac ekran durumu fiyatı",
+      "iMac satışı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-016",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "Mac mini satarken hangi ek donanımları belirtmeliyim?",
+    "answer": "Mac mini genellikle harici monitör, klavye ve fare olmadan da kullanılabilen bir masaüstü bilgisayardır. Satış açıklamasında model ve çip, bellek, depolama, güç kablosu ve varsa dahil edilen monitör veya çevre birimlerini belirtin. Bağlantı noktalarının çalışması, kasanın durumu ve cihazın açılıp açılmadığı da önemlidir. Monitör veya aksesuarlar teklif kapsamına dahil değilse bunu açıkça yazın.",
+    "keywords": [
+      "Mac mini satmak",
+      "Mac mini aksesuarları",
+      "Mac mini ikinci el değerlendirme"
+    ],
+    "intent": "mac_mini_satisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "Mac mini satmak",
+      "Mac mini aksesuarları"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-017",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook Pro ile MacBook Air arasında ikinci el fiyat farkı neden oluşur?",
+    "answer": "MacBook Pro ve MacBook Air farklı kullanım ihtiyaçlarına yönelik tasarlanır; ekran, soğutma, bağlantılar, performans sınıfı ve yapılandırma farklılıkları fiyatı etkileyebilir. Ancak model yılı ve çip nesli gibi ayrıntılar ürün ailesi adından daha belirleyici olabilir. Aynı yılın Air modeli, daha eski bir Pro modelinden farklı değer görebilir. Sağlıklı karşılaştırma için tam model, bellek, depolama, pil durumu ve kondisyonu eşleştirin.",
+    "keywords": [
+      "MacBook Air Pro ikinci el fiyatı",
+      "MacBook Pro mu Air mi",
+      "MacBook model karşılaştırma"
+    ],
+    "intent": "macbook_air_pro_farki",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook Air Pro ikinci el fiyatı",
+      "MacBook Pro mu Air mi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-018",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook'un kasasında ezik veya menteşe sorunu varsa satılabilir mi?",
+    "answer": "Kasa ezikleri, kapak hizası sorunları ve menteşe sertliği ya da gevşekliği cihazın durumunu ve olası onarım maliyetini etkileyebilir. Menteşe çevresindeki çatlaklar veya ekran açılırken gelen sesler özellikle belirtilmelidir. Cihazı zorlayarak açıp kapatmayın; hasarın iç bileşenlere etkisi yalnızca dış görünüşten anlaşılamayabilir. Kusurun fotoğrafını ve bilinen geçmişini paylaşmak değerlendirmeyi daha doğru hale getirir.",
+    "keywords": [
+      "menteşesi bozuk MacBook",
+      "kasası hasarlı MacBook satışı",
+      "MacBook kasa ezilmesi"
+    ],
+    "intent": "macbook_kasa_mentese",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "menteşesi bozuk MacBook",
+      "kasası hasarlı MacBook satışı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-019",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "Sıvı teması yaşamış MacBook satılabilir mi?",
+    "answer": "Sıvı teması yaşanan MacBook'un kabul edilip edilmeyeceği hasarın kapsamına ve alıcının çalışma koşullarına bağlıdır. Cihaz şu anda açılıyor olsa bile korozyon veya aralıklı arızalar daha sonra görülebilir. Teması ve yapılan onarımları gizlemeyin. Cihaz hâlâ ıslaksa çalıştırmayın veya şarja takmayın; güvenli biçimde değerlendirilmesini sağlayın. Bilinen belirtileri aktarmak, gerçekçi bir değerlendirme yapılmasına yardımcı olur.",
+    "keywords": [
+      "su dökülmüş MacBook satılır mı",
+      "sıvı teması MacBook",
+      "hasarlı MacBook fiyatı"
+    ],
+    "intent": "macbook_sivi_temasi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "su dökülmüş MacBook satılır mı",
+      "sıvı teması MacBook"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-020",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook'un garantisi devam ediyorsa daha yüksek fiyata satılır mı?",
+    "answer": "Devam eden garanti veya AppleCare kapsamı alıcı için avantaj olabilir, ancak fiyat üzerindeki etkisi cihazın modeline, kalan süreye, kapsam koşullarına ve devredilebilirliğe bağlıdır. Garanti durumunu resmi hesap veya belge üzerinden doğrulayın. Kapsamın yeni kullanıcıya geçip geçmediğini kontrol etmeden kesin taahhütte bulunmayın. Belge paylaşırken kişisel bilgiler, adresler ve hesap ayrıntıları gibi gereksiz verileri gizleyin.",
+    "keywords": [
+      "MacBook garantisi fiyatı artırır mı",
+      "AppleCare devir koşulları",
+      "ikinci el MacBook garantisi"
+    ],
+    "intent": "macbook_garanti_applecare",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook garantisi fiyatı artırır mı",
+      "AppleCare devir koşulları"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-021",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook onarım gördüyse veya ekranı değiştiyse bunu açıklamalı mıyım?",
+    "answer": "Evet. Ekran, batarya, klavye, anakart veya başka bir parçanın değiştiği biliniyorsa bu bilgiyi ve mevcut belgeleri paylaşın. Onarımın yetkili servis veya bağımsız servis tarafından yapılması, kullanılan parçanın niteliği ve onarım sonrası çalışma durumu değerlendirmede rol oynayabilir. Onarım geçmişini gizlemek, cihaz incelendiğinde güven kaybına veya teklifin değişmesine yol açabilir. Fatura ya da servis kaydındaki kişisel verileri gereksiz yere açık etmeyin.",
+    "keywords": [
+      "ekranı değişmiş MacBook satışı",
+      "MacBook servis geçmişi",
+      "onarım görmüş MacBook fiyatı"
+    ],
+    "intent": "macbook_onarim_gecmisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ekranı değişmiş MacBook satışı",
+      "MacBook servis geçmişi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-022",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook'u satarken seri numarasını paylaşmak güvenli mi?",
+    "answer": "Seri numarası cihazı tanımlamak veya garanti durumunu kontrol etmek için kullanılabilir; bu nedenle herkese açık ilanlarda veya sosyal medya paylaşımlarında gereksiz yere göstermemek daha temkinlidir. İlk değerlendirme için çoğunlukla model, çip, bellek, depolama ve kondisyon bilgileri yeterlidir. Belirli bir işlem için seri numarası gerekiyorsa doğrulanmış alıcıyla uygun kanal üzerinden paylaşmayı değerlendirin. Fotoğraflarda seri numarası etiketini gizleyebilirsiniz.",
+    "keywords": [
+      "MacBook seri numarası paylaşma",
+      "Mac seri numarası güvenliği",
+      "Apple cihaz ilanı gizlilik"
+    ],
+    "intent": "mac_seri_numarasi_gizlilik",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook seri numarası paylaşma",
+      "Mac seri numarası güvenliği"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-023",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook'un orijinal kutusu ve faturası yoksa satış yapılabilir mi?",
+    "answer": "Orijinal kutu veya fatura eksikliği tek başına cihazın satılamayacağı anlamına gelmez; değerlendirme alıcının koşullarına, cihazın doğrulanabilirliğine ve diğer özelliklerine bağlıdır. Fatura varsa kişisel ve ödeme bilgilerini koruyarak gerekli bilgileri paylaşın. Cihazın mülkiyetini veya garanti durumunu kanıtlamak için hangi belgenin gerektiği alım sürecine göre değişebilir. Belge eksikliğini gizlemek yerine baştan belirtin.",
+    "keywords": [
+      "faturasız MacBook satılır mı",
+      "kutusuz MacBook fiyatı",
+      "MacBook mülkiyet belgesi"
+    ],
+    "intent": "mac_kutu_fatura",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "faturasız MacBook satılır mı",
+      "kutusuz MacBook fiyatı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-024",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "Eski Intel işlemcili MacBook veya iMac hâlâ değerli olabilir mi?",
+    "answer": "Eski Intel tabanlı Mac'lerin değeri model yılına, teknik özelliklerine, macOS desteğine, pil veya ekran durumuna ve parça bulunabilirliğine bağlıdır. Bazı eski modeller belirli iş akışlarında kullanılabilirken, güncel yazılım desteğinin sınırlı olması kullanım değerini azaltabilir. Cihazın çalışır durumu ve bilinen arızaları doğru aktarılmalıdır. Ekonomik değeri çok düşükse uygun elektronik atık toplama veya geri dönüşüm seçeneklerini değerlendirin.",
+    "keywords": [
+      "eski Intel MacBook satılır mı",
+      "eski iMac değeri",
+      "destek dışı Mac değerlendirme"
+    ],
+    "intent": "eski_intel_mac_degeri",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "eski Intel MacBook satılır mı",
+      "eski iMac değeri"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-025",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "Birden fazla kurumsal MacBook veya iMac toplu olarak satılabilir mi?",
+    "answer": "Toplu kurumsal Mac satışı için cihaz adedi, model ve yıl, çip türü, bellek ve depolama yapılandırması, kondisyon, aksesuarlar ve bilinen arızaları içeren bir envanter hazırlayın. Her cihazı ayrı satırda tanımlamak, benzer görünen modeller arasındaki farkları görünür kılar. Kurumun mülkiyet yetkisi doğrulanmalı, veriler silinmeli ve MDM ya da otomatik kayıt durumları BT ekibince yönetilmelidir. Nihai koşullar cihaz incelemesi ve alım kapsamıyla netleşir.",
+    "keywords": [
+      "kurumsal MacBook satışı",
+      "toplu iMac alımı",
+      "Mac envanter listesi"
+    ],
+    "intent": "kurumsal_mac_toplu_satis",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "kurumsal MacBook satışı",
+      "toplu iMac alımı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-MAC-026",
+    "language": "tr",
+    "category": "apple_mac",
+    "question": "MacBook, iMac veya Mac mini için teklif almadan önce hangi kontrolleri yapmalıyım?",
+    "answer": "Model ve yapılandırmayı doğrulayın; ekran, klavye, bağlantılar, şarj, pil veya güç durumu ile cihazın genel çalışmasını gözlemleyin. Bilinen arızaları, onarım geçmişini ve aksesuarları not edin. Kişisel verilerinizi yedekleyip silme ve Apple Hesabı'ndan çıkış işlemlerini cihazı teslim etmeden önce tamamlayın. Seri numarası ve hesap bilgilerini herkese açık paylaşmayın. Teklif koşullarını, cihaz incelendiğinde tutarın değişip değişemeyeceğini ve teslim sürecini önceden okuyun.",
+    "keywords": [
+      "MacBook teklif alma",
+      "Mac satış öncesi kontrol listesi",
+      "iMac değerlendirme"
+    ],
+    "intent": "mac_teklif_oncesi_kontrol",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "MacBook teklif alma",
+      "Mac satış öncesi kontrol listesi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  }
+]
