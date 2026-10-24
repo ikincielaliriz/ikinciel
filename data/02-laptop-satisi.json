@@ -1,0 +1,602 @@
+[
+  {
+    "id": "IKN-LAP-001",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopumu satmak için ilk olarak hangi bilgileri hazırlamalıyım?",
+    "answer": "Laptopun marka ve modelini, mümkünse tam model kodunu, işlemci ve RAM miktarını, depolama türü ve kapasitesini, ekran kartını ve ekran boyutunu not edin. Ayrıca cihazın çalışıp çalışmadığını, pil durumunu, ekran ve kasa kusurlarını, adaptör gibi aksesuarları belirtin. Bu bilgiler ilk değerlendirmeyi kolaylaştırır; kesin fiyat cihazın gerçek durumu ve alım koşulları incelendiğinde netleşebilir.",
+    "keywords": [
+      "laptop satmak için gereken bilgiler",
+      "laptop modelini öğrenme",
+      "ikinci el laptop değerlendirmesi"
+    ],
+    "intent": "laptop_satisina_hazirlik",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "laptop satmak için gereken bilgiler",
+      "laptop modelini öğrenme"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-002",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "İkinci el laptop fiyatı hangi kriterlere göre belirlenir?",
+    "answer": "Laptop fiyatı tek bir özelliğe göre belirlenmez. Marka ve model, işlemci nesli, RAM ve SSD kapasitesi, ekran kartı, ekran özellikleri, cihazın yaşı, kozmetik durumu, pil sağlığı, arıza geçmişi ve birlikte verilen aksesuarlar birlikte değerlendirilir. Benzer cihazların güncel ilan fiyatları fikir verebilir; ancak ilan fiyatı gerçekleşmiş satış fiyatıyla aynı olmayabilir.",
+    "keywords": [
+      "ikinci el laptop fiyatı nasıl hesaplanır",
+      "laptop değerini etkileyen özellikler",
+      "kullanılmış bilgisayar fiyatı"
+    ],
+    "intent": "laptop_fiyatlandirma",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ikinci el laptop fiyatı nasıl hesaplanır",
+      "laptop değerini etkileyen özellikler"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-003",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopumun tam modelini nasıl öğrenebilirim?",
+    "answer": "Model bilgisini cihazın altındaki etikette, kutusunda veya satın alma belgesinde bulabilirsiniz. Windows'ta Sistem Bilgisi ekranında üretici ve model alanlarını kontrol edebilir, macOS'ta Apple menüsündeki Bu Mac Hakkında bölümüne bakabilirsiniz. Seri numarası gibi kişisel veya cihaza özgü tanımlayıcıları herkese açık paylaşmanız gerekmez; ilk değerlendirme için çoğunlukla marka, model ve temel özellikler yeterlidir.",
+    "keywords": [
+      "laptop model numarası nerede yazar",
+      "bilgisayarın özelliklerini öğrenme",
+      "laptop seri numarası paylaşılır mı"
+    ],
+    "intent": "laptop_model_bilgisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "laptop model numarası nerede yazar",
+      "bilgisayarın özelliklerini öğrenme"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-004",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "RAM miktarı laptopun ikinci el değerini etkiler mi?",
+    "answer": "Evet, RAM miktarı ve yükseltilebilirliği fiyatı etkileyebilir; ancak etkisi modelin diğer özelliklerine ve hedef kullanıcıya bağlıdır. Aynı modelin farklı RAM yapılandırmaları farklı fiyatlarla değerlendirilebilir. RAM'in anakarta lehimli olup olmadığı, boş yuva bulunup bulunmadığı ve yükseltmenin teknik olarak desteklenmesi de önemlidir. Yalnızca RAM miktarına bakarak kesin fiyat belirlemek doğru olmaz.",
+    "keywords": [
+      "RAM laptop fiyatını etkiler mi",
+      "laptop RAM yükseltilebilir mi",
+      "ikinci el bilgisayar özellikleri"
+    ],
+    "intent": "laptop_ram_fiyata_etkisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "RAM laptop fiyatını etkiler mi",
+      "laptop RAM yükseltilebilir mi"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-005",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "SSD kapasitesi ve türü laptop fiyatını değiştirir mi?",
+    "answer": "Depolama kapasitesi ve türü kullanım deneyimini ve cihazın piyasa değerini etkileyebilir. SSD'li bir cihaz genellikle benzer koşullardaki mekanik diskli bir modele göre daha hızlı açılış ve uygulama performansı sunar. Bununla birlikte kapasite, SSD'nin sağlık durumu, cihazın genel özellikleri ve yükseltme imkânı birlikte düşünülmelidir. Depolama yükseltmesi yapılan cihazlarda mevcut parçaların ve değişimin doğru belirtilmesi faydalıdır.",
+    "keywords": [
+      "SSD laptop değerini artırır mı",
+      "HDD ile SSD arasındaki fark",
+      "laptop depolama kapasitesi fiyatı"
+    ],
+    "intent": "laptop_ssd_degeri",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "SSD laptop değerini artırır mı",
+      "HDD ile SSD arasındaki fark"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-006",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "İşlemci nesli ikinci el laptop fiyatını ne kadar etkiler?",
+    "answer": "İşlemcinin modeli ve nesli performans, enerji tüketimi ve desteklenen teknolojiler hakkında fikir verir; bu nedenle fiyat değerlendirmesinde önemlidir. Yalnızca i5 veya Ryzen 5 gibi ürün ailesine bakmak yeterli değildir, çünkü aynı ailede farklı nesil ve güç sınıfları bulunur. Tam işlemci kodunu paylaşmak daha sağlıklı karşılaştırma yapılmasını sağlar. Fiyat yine ekran, bellek, depolama ve cihazın durumuyla birlikte değerlendirilir.",
+    "keywords": [
+      "işlemci nesli laptop fiyatını etkiler mi",
+      "laptop işlemci modeli nasıl öğrenilir",
+      "i5 laptop ikinci el fiyatı"
+    ],
+    "intent": "laptop_islemci_fiyati",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "işlemci nesli laptop fiyatını etkiler mi",
+      "laptop işlemci modeli nasıl öğrenilir"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-007",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Harici ekran kartlı laptoplar daha yüksek fiyata satılır mı?",
+    "answer": "Harici ekran kartı özellikle oyun, 3D tasarım ve video işleme gibi işler için değerli olabilir; ancak her ekran kartı aynı performansı sunmaz. GPU'nun tam modeli, güç sınırı, soğutma sistemi, işlemci ve ekran yapılandırması önemlidir. Oyun laptoplarında fan sesi, sıcaklık, bakım geçmişi ve yük altında kararlılık da incelenebilir. Bu nedenle yalnızca 'oyuncu laptopu' ifadesi yüksek bir fiyatı garanti etmez.",
+    "keywords": [
+      "ekran kartı laptop değerini artırır mı",
+      "oyuncu laptopu ikinci el fiyatı",
+      "GPU modeli nasıl öğrenilir"
+    ],
+    "intent": "oyuncu_laptop_fiyatlandirma",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ekran kartı laptop değerini artırır mı",
+      "oyuncu laptopu ikinci el fiyatı"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-008",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopun pil ömrü satış fiyatını etkiler mi?",
+    "answer": "Evet. Pilin şarj tutma kapasitesi, çalışma süresi ve beklenmedik kapanma gibi sorunları cihazın kullanılabilirliğini etkiler. Pil sağlığını işletim sisteminin sunduğu raporlardan veya cihazın üretici yazılımından kontrol edebilirsiniz; sonuçlar modele göre değişir. Pilin eskimiş olması her zaman cihazın satılamayacağı anlamına gelmez, fakat durumu doğru bildirmek ve değerlendirmeye dahil edilmesini sağlamak gerekir.",
+    "keywords": [
+      "laptop pili fiyatı etkiler mi",
+      "pil sağlığı nasıl kontrol edilir",
+      "bataryası zayıf laptop satılır mı"
+    ],
+    "intent": "laptop_pil_sagligi_fiyat",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "laptop pili fiyatı etkiler mi",
+      "pil sağlığı nasıl kontrol edilir"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-009",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Ekranında çizik veya ölü piksel bulunan laptop satılabilir mi?",
+    "answer": "Ekran kusuru bulunan laptopun satılıp satılamayacağı kusurun türüne, yaygınlığına ve cihazın diğer parçalarının durumuna bağlıdır. Ölü piksel, parlaklık sorunu, çizik, çatlak veya görüntü titremesi birbirinden farklı değerlendirilir. Kusuru gizlemek yerine nerede olduğunu ve ne zaman ortaya çıktığını açıklayın. Ekran arızası onarım maliyeti doğurabileceğinden teklif üzerinde etkili olabilir.",
+    "keywords": [
+      "ekranı kırık laptop satılır mı",
+      "ölü pikselli laptop fiyatı",
+      "laptop ekran çizikleri"
+    ],
+    "intent": "laptop_ekran_kusuru",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ekranı kırık laptop satılır mı",
+      "ölü pikselli laptop fiyatı"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-010",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Kasası ezilmiş veya menteşesi bozuk laptop için teklif alabilir miyim?",
+    "answer": "Kasa ezikleri, çatlaklar, gevşek menteşeler ve kapak kapanma sorunları cihazın güvenli kullanımını ve onarım maliyetini etkileyebilir. Bu tür kusurlar cihazın otomatik olarak değersiz olduğu anlamına gelmez; değerlendirme model ve hasarın kapsamına bağlıdır. Menteşe bölgesinde açılma, ekran kablosunda hasar veya kasada şişme gibi belirtiler varsa bunları özellikle belirtin ve cihazı zorlayarak açıp kapatmayın.",
+    "keywords": [
+      "menteşesi kırık laptop satılır mı",
+      "kasası hasarlı laptop fiyatı",
+      "ezilmiş laptop alan yerler"
+    ],
+    "intent": "laptop_kasa_mentese_hasari",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "menteşesi kırık laptop satılır mı",
+      "kasası hasarlı laptop fiyatı"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-011",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Şarj olmayan veya açılmayan laptopumu satabilir miyim?",
+    "answer": "Açılmayan ya da şarj olmayan laptop da bazı alıcılar tarafından parça, onarım veya geri kazanım amacıyla değerlendirilebilir; kabul edilip edilmeyeceği hizmet kapsamına bağlıdır. Sorunun adaptör, batarya, şarj soketi, anakart veya başka bir bileşenden kaynaklandığı kesin olarak bilinmiyorsa tahminde bulunmak yerine gözlenen belirtileri aktarın. Cihazı tekrar tekrar açmaya çalışmak ek hasar riski yaratıyorsa denemeyi bırakın.",
+    "keywords": [
+      "açılmayan laptop satılır mı",
+      "şarj almayan bilgisayar alan yerler",
+      "bozuk laptop değerlendirme"
+    ],
+    "intent": "arizali_laptop_satisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "açılmayan laptop satılır mı",
+      "şarj almayan bilgisayar alan yerler"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-012",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopun orijinal kutusu yoksa fiyatı düşer mi?",
+    "answer": "Orijinal kutunun bulunmaması tek başına laptopun değerini belirlemez. Cihazın teknik özellikleri, çalışma durumu, fiziksel kondisyonu ve talebi genellikle daha belirleyicidir. Kutu, taşıma ve yeniden satış açısından kolaylık sağlayabilir; ancak kutu yok diye cihazın satılamayacağı sonucuna varılmaz. Varsa orijinal adaptör ve diğer gerekli aksesuarları belirtin, eksik parçaları da açıkça bildirin.",
+    "keywords": [
+      "kutusuz laptop satılır mı",
+      "adaptörü olmayan laptop satışı",
+      "laptop aksesuarları fiyatı etkiler mi"
+    ],
+    "intent": "laptop_kutu_aksesuar",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "kutusuz laptop satılır mı",
+      "adaptörü olmayan laptop satışı"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-013",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopun adaptörü yoksa satış yapabilir miyim?",
+    "answer": "Adaptörün eksik olması değerlendirmeyi etkileyebilir; çünkü alıcının cihazı test etmesi veya kullanıma hazırlaması için uygun güç kaynağı gerekebilir. Her adaptör birbirinin yerine kullanılamaz: voltaj, güç kapasitesi, bağlantı tipi ve üretici gereksinimleri önemlidir. Uyumlu olmayan bir adaptör kullanmayın. Adaptörünüz yoksa bunu baştan belirtin; cihazın diğer özellikleri ve alım koşullarıyla birlikte değerlendirilir.",
+    "keywords": [
+      "şarj aleti olmayan laptop satılır mı",
+      "laptop adaptörü fiyatı etkiler mi",
+      "uyumlu laptop adaptörü"
+    ],
+    "intent": "adaptorsuz_laptop_satisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "şarj aleti olmayan laptop satılır mı",
+      "laptop adaptörü fiyatı etkiler mi"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-014",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopun garantisi devam ediyorsa fiyatı artar mı?",
+    "answer": "Devam eden garanti, bazı alıcılar için avantaj sağlayabilir; ancak fiyat artışının miktarı garanti koşullarına ve cihazın genel durumuna bağlıdır. Garanti süresi, kapsamı, satın alma tarihi ve garantinin yeni kullanıcıya devredilip devredilemediği kontrol edilmelidir. Garanti belgesi veya fatura mevcutsa bilgileri paylaşırken kişisel verileri ve sipariş ayrıntılarını gereksiz yere açık etmeyin. Garanti tek başına yüksek fiyat garantisi değildir.",
+    "keywords": [
+      "garantili laptop daha pahalı mı",
+      "ikinci el laptop garantisi",
+      "garanti devredilebilir mi"
+    ],
+    "intent": "laptop_garanti_degeri",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "garantili laptop daha pahalı mı",
+      "ikinci el laptop garantisi"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-015",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopum çok eskiyse yine de satabilir miyim?",
+    "answer": "Eski laptopların değeri sıfır olmak zorunda değildir. Kullanılabilir parçalar, yükseltme imkânı, işletim sistemi desteği, batarya durumu ve modelin parça bulunabilirliği değerlendirmede rol oynayabilir. Bununla birlikte çok eski cihazlarda güvenlik güncellemelerinin sona ermiş olması veya yeni yazılımların çalışmaması kullanım değerini azaltabilir. Cihaz ekonomik olarak satılabilir değilse elektronik atık toplama veya uygun geri dönüşüm seçeneklerini araştırın.",
+    "keywords": [
+      "eski laptop alan yerler",
+      "çok eski bilgisayar satılır mı",
+      "eski laptop geri dönüşüm"
+    ],
+    "intent": "eski_laptop_degeri",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "eski laptop alan yerler",
+      "çok eski bilgisayar satılır mı"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-016",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopun kozmetik durumu fiyatı ne kadar etkiler?",
+    "answer": "Çizik, boya aşınması, kasa çatlağı, klavye parlama izleri ve ekran kusurları alıcının cihazı nasıl değerlendireceğini etkileyebilir. Hafif kullanım izleriyle yapısal hasar aynı şey değildir. Kusurların fotoğraflarla gösterilmesi ve doğru açıklanması beklentilerin baştan netleşmesine yardımcı olur. Kozmetik durum önemlidir ama cihazın açılması, tüm bileşenlerin çalışması ve teknik özellikleri de fiyat üzerinde etkilidir.",
+    "keywords": [
+      "çizik laptop fiyatı düşer mi",
+      "kullanılmış laptop kondisyonu",
+      "laptop hasarı nasıl bildirilir"
+    ],
+    "intent": "laptop_kozmetik_durum",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "çizik laptop fiyatı düşer mi",
+      "kullanılmış laptop kondisyonu"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-017",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopu satmadan önce temizlemek gerekir mi?",
+    "answer": "Cihazın dış yüzeyini nazikçe temizlemek fotoğrafların ve ilk incelemenin daha anlaşılır olmasını sağlayabilir. Temizlik sırasında sıvıyı doğrudan cihaza püskürtmeyin, bağlantı noktalarına sıvı kaçırmayın ve üreticinin bakım önerilerini izleyin. İç temizlik veya parça sökümü konusunda deneyiminiz yoksa cihazı açmayın. Temizlik, gerçek kusurları gizlemek için değil, cihazı güvenli biçimde sunmak için yapılmalıdır.",
+    "keywords": [
+      "laptop satmadan önce nasıl temizlenir",
+      "bilgisayar dış yüzey temizliği",
+      "laptop fotoğrafı çekme"
+    ],
+    "intent": "laptop_satisa_hazirlama_temizlik",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "laptop satmadan önce nasıl temizlenir",
+      "bilgisayar dış yüzey temizliği"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-018",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopun fotoğrafları fiyat teklifi almaya yardımcı olur mu?",
+    "answer": "Net fotoğraflar model etiketini değil, cihazın dış durumunu ve görünen kusurlarını anlamaya yardımcı olabilir. Genel görünüm, ekran açıkken görüntü, klavye, kasa köşeleri ve varsa hasarlar ayrı ayrı gösterilebilir. Fotoğraflarda kişisel belgeler, e-posta adresleri, seri numarası veya ekrandaki özel bilgiler görünmemesine dikkat edin. Fotoğraflar ilk değerlendirmeyi destekler; teknik testin veya nihai incelemenin yerini her zaman tutmaz.",
+    "keywords": [
+      "laptop satışı için hangi fotoğraflar gerekir",
+      "ikinci el laptop fotoğrafı",
+      "seri numarası fotoğrafta görünmeli mi"
+    ],
+    "intent": "laptop_fotograf_teklif",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "laptop satışı için hangi fotoğraflar gerekir",
+      "ikinci el laptop fotoğrafı"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-019",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopumun fiyatını internet ilanlarındaki fiyatlarla karşılaştırmalı mıyım?",
+    "answer": "Benzer ilanları incelemek başlangıç noktası olabilir; karşılaştırmayı aynı veya yakın model, işlemci nesli, RAM, depolama, ekran kartı ve kondisyon üzerinden yapın. İlanlarda yazan tutarlar satıcının istediği fiyatlardır ve gerçek satış tutarını göstermeyebilir. Garanti, aksesuarlar, pil durumu ve kusurlar da fark yaratır. Tek bir ilana göre karar vermek yerine birkaç güncel karşılaştırma yapıp özellikleri eşleştirmek daha sağlıklıdır.",
+    "keywords": [
+      "ikinci el laptop ilan fiyatları",
+      "laptop piyasa değeri öğrenme",
+      "ilan fiyatı satış fiyatı farkı"
+    ],
+    "intent": "laptop_ilan_fiyat_karsilastirma",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ikinci el laptop ilan fiyatları",
+      "laptop piyasa değeri öğrenme"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-020",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptop fiyatı neden aynı model için bile değişir?",
+    "answer": "Aynı model adı altında farklı işlemci, bellek, ekran kartı veya depolama yapılandırmaları bulunabilir. Ayrıca üretim yılı, pil sağlığı, ekran kalitesi, kasa durumu, arıza geçmişi, garanti, aksesuarlar ve bölgesel talep fiyat farkı yaratır. Bu nedenle yalnızca ürün ailesini karşılaştırmak yanıltıcı olabilir. Tam model kodu ve yapılandırmayı belirleyip cihazın gerçek durumunu da hesaba katmak daha doğru bir değerlendirme sağlar.",
+    "keywords": [
+      "aynı laptop neden farklı fiyatlı",
+      "laptop tam model kodu",
+      "ikinci el bilgisayar piyasa değeri"
+    ],
+    "intent": "ayni_model_laptop_fiyat_farki",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "aynı laptop neden farklı fiyatlı",
+      "laptop tam model kodu"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-021",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopun parçaları sonradan yükseltildiyse bunu söylemeli miyim?",
+    "answer": "Evet. RAM veya SSD gibi bileşenler sonradan değiştirildiyse mevcut yapılandırmayı ve bildiğiniz değişiklikleri açıklayın. Yükseltme performansı artırabilir; fakat parçanın uyumluluğu, kalitesi ve montajı önemlidir. Orijinal parçalar elinizdeyse bunu da belirtebilirsiniz. Anakart veya ekran kartı gibi önemli bileşenlerde değişim yapıldıysa, varsa servis kaydıyla birlikte paylaşmak cihazın geçmişinin daha doğru anlaşılmasına yardımcı olur.",
+    "keywords": [
+      "RAM SSD yükseltilmiş laptop satışı",
+      "parçası değişmiş laptop değer kaybı",
+      "laptop yükseltme geçmişi"
+    ],
+    "intent": "laptop_yukseltme_bilgisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "RAM SSD yükseltilmiş laptop satışı",
+      "parçası değişmiş laptop değer kaybı"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-022",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopumda sıvı teması olduysa satabilir miyim?",
+    "answer": "Sıvı teması yaşanan laptopun durumu, olayın üzerinden geçen süreye ve oluşan hasara bağlıdır. Cihaz şu anda çalışsa bile korozyon veya aralıklı arızalar sonradan ortaya çıkabilir. Teması gizlemeyin; bilinen belirtileri ve yapılmış onarımları belirtin. Cihaz ıslaksa çalıştırmayın veya şarja takmayın. Satın alma değerlendirmesi, hasarın kapsamına ve alıcının bu tür cihazları kabul edip etmediğine göre değişir.",
+    "keywords": [
+      "sıvı dökülmüş laptop satılır mı",
+      "su hasarlı bilgisayar fiyatı",
+      "ıslanan laptop ne yapılmalı"
+    ],
+    "intent": "laptop_sivi_temasi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "sıvı dökülmüş laptop satılır mı",
+      "su hasarlı bilgisayar fiyatı"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-023",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopun klavyesinde bazı tuşlar çalışmıyorsa satılabilir mi?",
+    "answer": "Bazı tuşların çalışmaması klavye, bağlantı, sıvı teması veya başka bir donanım sorunundan kaynaklanabilir. Cihazın diğer işlevleri çalışsa bile bu kusur kullanım deneyimini ve olası onarım maliyetini etkiler. Hangi tuşların çalışmadığını, sorunun sürekli olup olmadığını ve daha önce onarım yapılıp yapılmadığını açıklayın. Kusuru belirtmek, cihaz incelendiğinde beklenti farkı yaşanmasını önlemeye yardımcı olur.",
+    "keywords": [
+      "klavyesi bozuk laptop satılır mı",
+      "çalışmayan tuşlar laptop fiyatı",
+      "laptop klavye arızası"
+    ],
+    "intent": "laptop_klavye_arizasi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "klavyesi bozuk laptop satılır mı",
+      "çalışmayan tuşlar laptop fiyatı"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-024",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptopun fanı çok ses çıkarıyorsa fiyatı etkilenir mi?",
+    "answer": "Fan sesi toz birikimi, fan aşınması, yüksek işlem yükü veya soğutma sistemiyle ilgili başka bir sorundan kaynaklanabilir. Yoğun yükte fanın hızlanması normal olabilir; sürtünme sesi, aşırı ısınma veya kendiliğinden kapanma ise ayrıca değerlendirilmelidir. Cihazı açıp bakım yapma konusunda deneyiminiz yoksa söküm yapmayın. Belirtileri ve bilinen bakım geçmişini paylaşmak daha doğru değerlendirmeye yardımcı olur.",
+    "keywords": [
+      "fanı sesli laptop satılır mı",
+      "laptop aşırı ısınma fiyatı",
+      "bilgisayar fan sesi neden olur"
+    ],
+    "intent": "laptop_fan_sorunu",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "fanı sesli laptop satılır mı",
+      "laptop aşırı ısınma fiyatı"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-LAP-025",
+    "language": "tr",
+    "category": "laptop_satisi",
+    "question": "Laptop satışından önce dosyalarımı nasıl güvenli biçimde kaldırmalıyım?",
+    "answer": "Önce önemli dosyalarınızı başka bir yere yedekleyin, ardından e-posta, bulut depolama ve diğer hesaplardan çıkış yapın. Cihazı devretmeden önce işletim sisteminin sunduğu sıfırlama veya güvenli silme adımlarını modelinize uygun biçimde uygulayın; yalnızca dosyaları çöp kutusuna taşımak yeterli olmayabilir. Kurumsal cihazlarda kurumun BT ekibi ve veri saklama politikaları izlenmelidir. Veri silme işlemini tamamladığınızdan emin olmadan cihazı teslim etmeyin.",
+    "keywords": [
+      "laptop satmadan önce verileri silme",
+      "bilgisayar fabrika ayarlarına döndürme",
+      "laptopta kişisel verileri koruma"
+    ],
+    "intent": "laptop_veri_guvenligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "laptop satmadan önce verileri silme",
+      "bilgisayar fabrika ayarlarına döndürme"
+    ],
+    "source_url": "https://ikincielaliriz.com/ikinci-el-laptop/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  }
+]
