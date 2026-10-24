@@ -1,0 +1,602 @@
+[
+  {
+    "id": "IKN-TAB-001",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "İkinci el tabletimi satmak için hangi bilgileri hazırlamalıyım?",
+    "answer": "Tabletinizin marka ve tam modelini, depolama kapasitesini, bağlantı türünü (Wi‑Fi veya hücresel), ekran ve kasa durumunu, pil performansını ve bilinen arızalarını not edin. Kalem, klavye, kılıf, şarj adaptörü ve kutu gibi aksesuarları da belirtin. İlk değerlendirmede model ve kondisyon bilgileri yardımcı olur; nihai teklif cihazın incelenmesine ve alım koşullarına bağlıdır. Seri numarası veya hesap parolası gibi hassas bilgileri herkese açık paylaşmayın.",
+    "keywords": [
+      "ikinci el tablet satmak",
+      "tablet satış hazırlığı",
+      "iPad satışı"
+    ],
+    "intent": "tablet_satis_hazirligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ikinci el tablet satmak",
+      "tablet satış hazırlığı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-002",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tabletimin modelini ve depolama kapasitesini nasıl öğrenebilirim?",
+    "answer": "iPad'de Ayarlar > Genel > Hakkında bölümünde model adı, model numarası ve kapasite bilgilerini görebilirsiniz. Android tabletlerde benzer bilgiler Ayarlar içindeki Tablet hakkında veya Cihaz hakkında bölümünde bulunur; menü adları üreticiye göre değişebilir. Model numarası bazen cihazın arkasında veya kutusunda da yer alır. Kutu bilgisini cihazla karşılaştırın ve emin olmadığınız özellikleri tahmin ederek yazmayın.",
+    "keywords": [
+      "tablet modelini öğrenme",
+      "iPad model numarası",
+      "tablet depolama kapasitesi"
+    ],
+    "intent": "tablet_model_ogrenme",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "tablet modelini öğrenme",
+      "iPad model numarası"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-003",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "İkinci el tabletin fiyatını hangi özellikler belirler?",
+    "answer": "Marka ve model, üretim yılı, depolama kapasitesi, Wi‑Fi veya hücresel bağlantı seçeneği, pil durumu, ekran ve kasa kondisyonu, kalem veya klavye gibi aksesuarlar değeri etkileyebilir. Aynı ürün ailesinde farklı donanım ve bağlantı varyantları bulunabilir. Garanti ve onarım geçmişi de değerlendirmeye katkı sağlayabilir. İlanlardaki talep fiyatları gerçekleşen satış tutarıyla aynı değildir; net teklif cihazın durumuna ve alıcının güncel koşullarına bağlıdır.",
+    "keywords": [
+      "ikinci el tablet fiyatı",
+      "iPad fiyatını etkileyen özellikler",
+      "tablet değerleme"
+    ],
+    "intent": "tablet_fiyatlandirma",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ikinci el tablet fiyatı",
+      "iPad fiyatını etkileyen özellikler"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-004",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Ekranı çatlak veya dokunmatiği bozuk tablet satılabilir mi?",
+    "answer": "Ekranı çatlak, lekeli veya dokunmatiği kısmen çalışmayan tabletlerin kabulü alıcının arızalı cihaz koşullarına ve hasarın kapsamına bağlıdır. Cam çatlağı, görüntü panelindeki bozulma ve dokunmatik arızası farklı onarım ihtiyaçları doğurabilir. Kusurları iyi ışıkta fotoğraflayın ve dokunmatiğin hangi bölgelerde çalışmadığını açıklayın. Hasarı gizlemek yerine baştan belirtin; onarım maliyeti teklif üzerinde etkili olabilir.",
+    "keywords": [
+      "ekranı kırık tablet satmak",
+      "dokunmatiği bozuk iPad",
+      "tablet ekran hasarı"
+    ],
+    "intent": "tablet_kirik_ekran",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "ekranı kırık tablet satmak",
+      "dokunmatiği bozuk iPad"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-005",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tabletimin pili çabuk bitiyorsa satabilir miyim?",
+    "answer": "Pil performansı düşmüş tabletler de alım koşullarına bağlı olarak değerlendirilebilir. Şarjın ne kadar sürede azaldığı, cihazın beklenmedik kapanıp kapanmadığı ve kullanım sırasında aşırı ısınma olup olmadığı gibi belirtileri açıklayın. Pil sağlığı göstergesi her modelde aynı şekilde sunulmayabilir. Pilin zayıflaması fiyatı etkileyebilir ancak tek başına her cihazın reddedileceği anlamına gelmez. Pil şişmesi veya kasada kabarma varsa cihazı kullanmayı ve şarj etmeyi bırakıp güvenli destek alın.",
+    "keywords": [
+      "tablet pil sağlığı",
+      "iPad pili çabuk bitiyor",
+      "şişmiş tablet bataryası"
+    ],
+    "intent": "tablet_pil_durumu",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "tablet pil sağlığı",
+      "iPad pili çabuk bitiyor"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-006",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "iPad satmadan önce Apple Hesabı ve Bul özelliğini neden kapatmalıyım?",
+    "answer": "iPad'i devretmeden önce Apple Hesabı'ndan çıkış yapmak ve Bul özelliğiyle ilişkili Etkinleştirme Kilidi'ni uygun biçimde kaldırmak önemlidir. Aksi durumda cihaz silinmiş olsa bile yeni kullanıcı kurulumu tamamlayamayabilir. Parolanızı alıcıyla paylaşmayın; hesabı kendi cihazınızda resmi adımlarla kaldırın. Hesaba erişiminiz yoksa kilidi aşmaya çalışmak yerine Apple'ın hesap kurtarma veya destek süreçlerini kullanın. Cihazı teslim etmeden önce hesabınızdan çıkış yaptığınızı doğrulayın.",
+    "keywords": [
+      "iPad Bul kapatma",
+      "iPad etkinleştirme kilidi",
+      "Apple Hesabı çıkışı"
+    ],
+    "intent": "ipad_aktivasyon_kilidi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "iPad Bul kapatma",
+      "iPad etkinleştirme kilidi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-007",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Android tablet satarken Google hesabını kaldırmak gerekir mi?",
+    "answer": "Bazı Android tabletlerde sıfırlama sonrasında daha önce kullanılan Google hesabını doğrulama isteyen fabrika ayarlarına sıfırlama koruması bulunur. Cihazı devretmeden önce üreticinin önerdiği sırayla Google hesabını kaldırın, ekran kilidini kontrol edin ve ardından resmi sıfırlama adımlarını uygulayın. Menü isimleri marka ve Android sürümüne göre değişebilir. Parolanızı alıcıyla paylaşmayın; cihazın yeni kurulum ekranına geçtiğini kontrol edin.",
+    "keywords": [
+      "Android tablet Google hesabı",
+      "tablet FRP kilidi",
+      "Android tablet sıfırlama"
+    ],
+    "intent": "android_tablet_google_hesabi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "Android tablet Google hesabı",
+      "tablet FRP kilidi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-008",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tablet satmadan önce fotoğraf ve dosyalarımı nasıl korurum?",
+    "answer": "Önemli fotoğrafları, belgeleri ve uygulama verilerini güvenli bir konuma yedekleyin; yedeğin açılabildiğini kontrol edin. Hesaplardan çıkış yapın, cihaz bulma ve ekran kilidi ayarlarını doğru biçimde yönetin ve modelin resmi yönergelerine göre fabrika ayarlarına sıfırlayın. microSD kart veya SIM kart kullanılıyorsa çıkarın. Bulut yedeklerinin sıfırlama işleminden ayrı olduğunu unutmayın. Kişisel verilerin silindiğini ve hesap kilitlerinin kaldırıldığını doğrulamadan tableti teslim etmeyin.",
+    "keywords": [
+      "tablet satmadan önce veri silme",
+      "iPad sıfırlama",
+      "Android tablet yedekleme"
+    ],
+    "intent": "tablet_veri_guvenligi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "tablet satmadan önce veri silme",
+      "iPad sıfırlama"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-009",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Fabrika ayarlarına sıfırlama tabletteki bütün verileri siler mi?",
+    "answer": "Fabrika ayarlarına sıfırlama, desteklenen tabletlerde cihazdaki kullanıcı verilerini kaldırmak için tasarlanmıştır; ancak doğru modelin resmi adımlarını izlemek gerekir. Önce yedek alın, ilgili Apple veya Google hesabından çıkış yapın ve cihaz bulma ya da etkinleştirme kilidi durumunu kontrol edin. Hafıza kartı, SIM kart ve bulut yedekleri ayrı kalabilir. İşlem sonrası ilk kurulum ekranının geldiğini ve kişisel hesabınızın bağlı olmadığını kontrol edin.",
+    "keywords": [
+      "tablet fabrika ayarları",
+      "iPad verileri silme",
+      "Android tablet sıfırlama"
+    ],
+    "intent": "tablet_fabrika_ayarlari",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "tablet fabrika ayarları",
+      "iPad verileri silme"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-010",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tablet açılmıyor veya şarj olmuyorsa satış için teklif alabilir miyim?",
+    "answer": "Açılmayan ya da şarj almayan tabletin değerlendirilmesi, arızanın kapsamına ve alıcının arızalı cihaz kabul edip etmediğine bağlıdır. Sorun adaptör, kablo, şarj bağlantısı, batarya veya iç donanımdan kaynaklanabilir; test edilmeden neden kesin söylenemez. Cihazın son çalışma durumu, düşme veya sıvı teması geçmişi ve görülen belirtileri aktarın. Sıvı teması şüphesi varsa tekrar tekrar şarja takmayın.",
+    "keywords": [
+      "açılmayan tablet satılır mı",
+      "tablet şarj almıyor",
+      "bozuk iPad değerlendirme"
+    ],
+    "intent": "tablet_acilmiyor",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "açılmayan tablet satılır mı",
+      "tablet şarj almıyor"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-011",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tablet kalemi veya klavyesi yoksa cihaz satılabilir mi?",
+    "answer": "Kalem, klavye, kılıf ve adaptör gibi aksesuarların eksik olması tabletin tek başına değerlendirilemeyeceği anlamına gelmez. Ancak aksesuarlar cihazın kullanımını ve toplam teklif değerlendirmesini etkileyebilir. Elinizde hangi parçaların bulunduğunu, aksesuarların orijinal olup olmadığını ve çalışıp çalışmadığını belirtin. Apple Pencil veya belirli klavyeler yalnızca uyumlu model ve nesillerle çalışabildiğinden uyumluluk hakkında model doğrulanmadan söz vermeyin.",
+    "keywords": [
+      "kalemsiz iPad satılır mı",
+      "klavyesiz tablet satışı",
+      "tablet aksesuarları"
+    ],
+    "intent": "tablet_aksesuar_eksik",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "kalemsiz iPad satılır mı",
+      "klavyesiz tablet satışı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-012",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tabletimin Wi‑Fi modeli ile hücresel modeli arasında fiyat farkı olur mu?",
+    "answer": "Wi‑Fi modeli yalnızca kablosuz ağ üzerinden internete bağlanırken hücresel model, desteklenen yapılandırmada mobil veri bağlantısı da sunabilir. Bu özellik ve cihazın tam varyantı ikinci el talebini etkileyebilir. Hücresel modelin SIM veya eSIM desteği ülkeye ve modele göre değişebilir. Kesin bağlantı seçeneklerini üreticinin teknik özelliklerinden doğrulayın; yalnızca ürün ailesi adına bakarak mobil veri desteği olduğunu varsaymayın.",
+    "keywords": [
+      "Wi-Fi iPad hücresel farkı",
+      "SIM kartlı tablet fiyatı",
+      "iPad Cellular modeli"
+    ],
+    "intent": "tablet_wifi_hucresel",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "Wi-Fi iPad hücresel farkı",
+      "SIM kartlı tablet fiyatı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-013",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tabletimin depolama alanı düşükse fiyatı etkilenir mi?",
+    "answer": "Depolama kapasitesi, aynı modelin farklı varyantları arasında fiyat farkı yaratabilir. Uygulamalar, çevrimdışı dosyalar ve büyük medya içerikleri için daha fazla alana ihtiyaç duyan kullanıcılar yüksek kapasiteyi tercih edebilir. Cihazın ayarlarından gerçek kapasiteyi doğrulayın; kullanılabilir alan, sistem yazılımı nedeniyle toplam kapasiteden daha düşük görünebilir. Depolama sonradan yükseltilemiyorsa mevcut kapasiteyi satış açıklamasında doğru belirtin.",
+    "keywords": [
+      "iPad depolama kapasitesi fiyatı",
+      "hafızası düşük tablet",
+      "tablet GB öğrenme"
+    ],
+    "intent": "tablet_depolama",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "iPad depolama kapasitesi fiyatı",
+      "hafızası düşük tablet"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-014",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tabletimin garantisi devam ediyorsa daha yüksek fiyat alır mıyım?",
+    "answer": "Devam eden garanti veya ek koruma planı alıcı için avantaj olabilir, ancak fiyat üzerindeki etkisi kalan süreye, kapsam koşullarına, devredilebilirliğe ve cihazın kondisyonuna bağlıdır. Garanti durumunu resmi belge veya üretici kanalıyla doğrulayın. Her planın yeni kullanıcıya aynı koşullarla geçeceğini varsaymayın. Belge paylaşırken adres, ödeme bilgisi ve diğer gereksiz kişisel verileri gizleyin.",
+    "keywords": [
+      "garantili tablet satışı",
+      "iPad garanti durumu",
+      "tablet garanti devri"
+    ],
+    "intent": "tablet_garanti",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "garantili tablet satışı",
+      "iPad garanti durumu"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-015",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tablet daha önce tamir gördüyse bunu açıklamalı mıyım?",
+    "answer": "Evet. Ekran, batarya, şarj bağlantısı veya başka bir parçanın değiştiği biliniyorsa onarım geçmişini açıklayın. İşlemin nerede yapıldığı, kullanılan parçanın niteliği ve onarım sonrası bilinen sorunlar değerlendirmeyi etkileyebilir. Servis kaydı varsa kişisel bilgileri gizleyerek ilgili bilgileri paylaşabilirsiniz. Onarım geçmişini saklamak cihaz incelendiğinde güven kaybına veya teklifin değişmesine neden olabilir.",
+    "keywords": [
+      "tamir görmüş tablet satışı",
+      "iPad ekran değişimi",
+      "tablet servis geçmişi"
+    ],
+    "intent": "tablet_onarim_gecmisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "tamir görmüş tablet satışı",
+      "iPad ekran değişimi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-016",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tablet kasasında eğilme veya kamera camında çatlak varsa ne yapmalıyım?",
+    "answer": "Kasa eğilmesi, köşelerde ezik veya kamera camındaki çatlaklar cihazın görünümünü ve işlevlerini etkileyebilir. Kasa deformasyonu ekran, batarya veya iç bileşenlerde ek sorunlara işaret edebileceğinden cihazı zorlamayın. Kamera camındaki hasarın fotoğraf ve video kalitesine etkisini kontrol edebiliyorsanız belirtin. Kusurları fotoğraflarla gösterin ve bilinen düşme geçmişini açıklayın; hasarın maliyeti değerlendirmeye yansıyabilir.",
+    "keywords": [
+      "eğilmiş tablet satışı",
+      "kamera camı kırık iPad",
+      "tablet kasa hasarı"
+    ],
+    "intent": "tablet_kasa_kamera",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "eğilmiş tablet satışı",
+      "kamera camı kırık iPad"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-017",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tablet sıvı teması yaşadıysa satılabilir mi?",
+    "answer": "Sıvı teması yaşamış tabletin kabul edilip edilmeyeceği hasarın kapsamına ve alıcının koşullarına bağlıdır. Cihaz şu anda çalışsa bile korozyon veya aralıklı arızalar daha sonra ortaya çıkabilir. Temas geçmişini ve bilinen belirtileri gizlemeyin. Cihaz ıslaksa çalıştırmayın, şarja takmayın ve ısı uygulayarak kurutmaya çalışmayın. Güvenli değerlendirme için uygun teknik destek alın.",
+    "keywords": [
+      "su dökülmüş tablet satılır mı",
+      "sıvı teması iPad",
+      "hasarlı tablet değerlendirme"
+    ],
+    "intent": "tablet_sivi_temasi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "su dökülmüş tablet satılır mı",
+      "sıvı teması iPad"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-018",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tablet ekranında ölü piksel veya görüntü lekesi varsa değer düşer mi?",
+    "answer": "Ölü piksel, ışık sızması, kalıcı görüntü izi, renk bozulması veya parlaklık sorunu ekranın kullanım kalitesini etkileyebilir. Kusurun görünürlüğü, yaygınlığı ve kullanım sırasında oluşturduğu sorun değerlendirmeyi etkiler. Ekranı farklı arka planlarda kontrol edin ve sorunu fotoğrafla gösterebiliyorsanız paylaşın. Bu belirtilerin nedenini teknik inceleme olmadan kesinleştirmeyin; küçük kusur ile panel arızası aynı değildir.",
+    "keywords": [
+      "iPad ölü piksel",
+      "tablet ekran lekesi",
+      "tablet görüntü sorunu"
+    ],
+    "intent": "tablet_ekran_goruntu",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "iPad ölü piksel",
+      "tablet ekran lekesi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-019",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Çocuklar için kullanılan eski tabletimi satabilir miyim?",
+    "answer": "Çocukların kullandığı tablet de cihazın durumu ve alım koşullarına bağlı olarak değerlendirilebilir. Satıştan önce fotoğrafları, indirilen dosyaları ve hesap bilgilerini yedekleyip kaldırın; çocuk profillerini, ebeveyn denetimi ayarlarını ve mağaza hesaplarını doğru biçimde kapatın. Ekran, şarj ve düğmeleri kontrol edin, bilinen hasarları açıklayın. Aile fotoğrafları veya çocuklara ait kişisel bilgiler cihazda kalmadığından emin olmadan teslim etmeyin.",
+    "keywords": [
+      "çocuk tableti satmak",
+      "eski tablet değerlendirme",
+      "tablet çocuk profili silme"
+    ],
+    "intent": "cocuk_tableti_satisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "çocuk tableti satmak",
+      "eski tablet değerlendirme"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-020",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Grafik çizim veya not alma için kullanılan tabletin kalemi önemli mi?",
+    "answer": "Kalem desteği ve kalemin dahil olması özellikle çizim, el yazısı ve not alma amacıyla tablet arayanlar için önemli olabilir. Kalemin basınç hassasiyeti, eşleşme durumu, şarjı ve düğmeleri modeline göre değişir. Tabletin hangi kalem nesli veya modeliyle uyumlu olduğunu üretici bilgileriyle doğrulayın. Kalem dahil değilse veya çalışmıyorsa bunu açıklayın; uyumlu olmayan aksesuarı ürünle birlikte çalışır gibi tanıtmayın.",
+    "keywords": [
+      "iPad kalem desteği",
+      "tablet kalemi fiyatı etkiler mi",
+      "Apple Pencil uyumluluğu"
+    ],
+    "intent": "tablet_stilus_kalem",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "iPad kalem desteği",
+      "tablet kalemi fiyatı etkiler mi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-021",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Kurumsal tabletleri satmadan önce hangi güvenlik adımları gerekir?",
+    "answer": "Kurumsal tabletlerde mülkiyet ve satış yetkisi doğrulanmalı, cihazlar envanterle eşleştirilmeli ve veriler kurumun onaylı prosedürüyle silinmelidir. Mobil cihaz yönetimi, iş profili, uzaktan kilitleme veya kurumsal hesaplar bulunabilir; bunlar yetkili BT ekibi tarafından kaldırılmalı ya da devredilmelidir. SIM ve hafıza kartlarını çıkarın, teslim kayıtlarını tutun ve kurum verilerini açık bırakmayın. Yetki olmadan yönetim kilitlerini aşmaya çalışmayın.",
+    "keywords": [
+      "şirket tabletlerini satmak",
+      "kurumsal iPad veri silme",
+      "tablet MDM kaldırma"
+    ],
+    "intent": "kurumsal_tablet_satisi",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "şirket tabletlerini satmak",
+      "kurumsal iPad veri silme"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-022",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Birden fazla tablet satmak için nasıl envanter listesi hazırlamalıyım?",
+    "answer": "Her tablet için marka ve model, kapasite, Wi‑Fi veya hücresel varyant, kondisyon, pil durumu, bilinen arızalar ve aksesuarları ayrı satırda kaydedin. Aynı modeldeki cihazların durumu farklı olabileceği için her birini ayrı tanımlamak daha doğru değerlendirme sağlar. Seri numarası ve diğer tanımlayıcıları herkese açık tabloda paylaşmayın; gerekiyorsa güvenli kanaldan iletin. Cihaz adedi, teslim koşulları ve veri silme sorumluluğunu önceden netleştirin.",
+    "keywords": [
+      "toplu tablet satışı",
+      "tablet envanter listesi",
+      "şirket iPad alımı"
+    ],
+    "intent": "toplu_tablet_envanter",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "toplu tablet satışı",
+      "tablet envanter listesi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-023",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tabletimin kutusu veya faturası yoksa satış yapabilir miyim?",
+    "answer": "Kutu veya faturanın olmaması her durumda satışa engel değildir; kabul koşulları alıcıya ve cihazın doğrulanabilirliğine göre değişir. Mülkiyet, garanti veya satın alma geçmişini doğrulamak için süreçte belge istenebilir. Elinizde belge varsa paylaşmadan önce adres, ödeme bilgisi ve diğer kişisel verileri gizleyin. Belge bulunmadığını baştan belirtin ve cihazın mülkiyeti konusunda şüphe varsa satış işlemini sürdürmeyin.",
+    "keywords": [
+      "faturasız iPad satılır mı",
+      "kutusuz tablet satışı",
+      "tablet mülkiyet belgesi"
+    ],
+    "intent": "tablet_fatura_kutu",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "faturasız iPad satılır mı",
+      "kutusuz tablet satışı"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-024",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Eski tabletimi satmak mı, bağışlamak mı, geri dönüşüme vermek mi daha mantıklı?",
+    "answer": "Çalışır ve talep gören bir tabletin satışı ekonomik karşılık sağlayabilir; bağış, cihazın güvenli biçimde yeniden kullanılmasına imkân verebilir. Kullanılamayacak veya ekonomik değeri çok düşük cihazlar için uygun elektronik atık toplama seçeneği düşünülebilir. Karar cihazın durumu, teklif ve yerel seçeneklere bağlıdır. Her durumda kişisel verileri güvenli biçimde silin; pili hasarlı cihazları normal çöpe atmayın ve uygun toplama yönergelerini izleyin.",
+    "keywords": [
+      "eski tablet değerlendirme",
+      "tablet bağışlamak",
+      "tablet geri dönüşüm"
+    ],
+    "intent": "tablet_satis_bagis_geri_donusum",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "eski tablet değerlendirme",
+      "tablet bağışlamak"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  },
+  {
+    "id": "IKN-TAB-025",
+    "language": "tr",
+    "category": "tabletler",
+    "question": "Tablet için teklif almadan önce hangi kontrolleri yapmalıyım?",
+    "answer": "Model ve kapasiteyi doğrulayın; ekran, dokunmatik, kameralar, hoparlör, mikrofon, düğmeler, şarj ve kablosuz bağlantıları kontrol edin. Pil performansını, bilinen arızaları, sıvı teması veya onarım geçmişini ve aksesuarları not edin. Verilerinizi yedekleyin, hesap kilitlerini kaldırın ve cihazı resmi yönergelere göre sıfırlayın. SIM ve hafıza kartlarını çıkarın; seri numarası veya hesap bilgilerini herkese açık paylaşmayın. Ön teklif ile inceleme sonrası kesin tutar arasındaki koşulları sorun.",
+    "keywords": [
+      "tablet teklif alma",
+      "iPad satış kontrol listesi",
+      "tablet satmadan önce yapılacaklar"
+    ],
+    "intent": "tablet_teklif_oncesi_kontrol",
+    "audience": [
+      "bireysel",
+      "kurumsal"
+    ],
+    "related_questions": [
+      "tablet teklif alma",
+      "iPad satış kontrol listesi"
+    ],
+    "source_url": "https://ikincielaliriz.com/",
+    "last_updated": "2026-10-24",
+    "review_status": "draft_review_required"
+  }
+]
