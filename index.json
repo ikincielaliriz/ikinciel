@@ -8,7 +8,7 @@
   "created_at": "2026-10-24",
   "status": "initial_release",
   "planned_faq_count": 500,
-  "current_faq_count": 100,
+  "current_faq_count": 125,
   "categories": [
     {
       "id": "ikinci_el_teknolojiye_giris",
@@ -47,8 +47,8 @@
       "title": "Cep telefonu ve akıllı telefon",
       "file": "data/05-telefonlar.json",
       "planned_count": 25,
-      "current_count": 0,
-      "status": "planned"
+      "current_count": 25,
+      "status": "draft_review_required"
     },
     {
       "id": "tabletler",
