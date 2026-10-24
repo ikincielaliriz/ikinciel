@@ -601,29 +601,5 @@
     "source_url": "https://ikincielaliriz.com/",
     "last_updated": "2026-10-24",
     "review_status": "draft_review_required"
-  },
-  {
-    "id": "IKN-TEL-026",
-    "language": "tr",
-    "category": "telefonlar",
-    "question": "Telefon için teklif almadan önce hangi kontrolleri yapmalıyım?",
-    "answer": "Model ve kapasiteyi doğrulayın; ekran, dokunmatik, kamera, hoparlör, mikrofon, düğmeler, şarj, bağlantılar ve pil durumunu gözden geçirin. Bilinen arızaları, sıvı teması veya onarım geçmişini ve aksesuarları not edin. Kişisel verilerinizi yedekleyin, hesap kilitlerini kaldırın ve cihazı resmi yönergelere göre sıfırlayın. SIM ve hafıza kartlarını çıkarın; IMEI ve hesap bilgilerini herkese açık paylaşmayın. Teklifin ön değerlendirme mi kesin tutar mı olduğunu ve inceleme sonrası hangi koşullarda değişebileceğini öğrenin.",
-    "keywords": [
-      "telefon için teklif alma",
-      "telefon satış kontrol listesi",
-      "telefon satmadan önce yapılacaklar"
-    ],
-    "intent": "telefon_teklif_oncesi_kontrol",
-    "audience": [
-      "bireysel",
-      "kurumsal"
-    ],
-    "related_questions": [
-      "telefon için teklif alma",
-      "telefon satış kontrol listesi"
-    ],
-    "source_url": "https://ikincielaliriz.com/",
-    "last_updated": "2026-10-24",
-    "review_status": "draft_review_required"
   }
 ]
