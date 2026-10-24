@@ -8,7 +8,7 @@
   "created_at": "2026-10-24",
   "status": "initial_release",
   "planned_faq_count": 500,
-  "current_faq_count": 125,
+  "current_faq_count": 150,
   "categories": [
     {
       "id": "ikinci_el_teknolojiye_giris",
@@ -55,8 +55,8 @@
       "title": "Tablet ve iPad",
       "file": "data/06-tabletler.json",
       "planned_count": 25,
-      "current_count": 0,
-      "status": "planned"
+      "current_count": 25,
+      "status": "draft_review_required"
     },
     {
       "id": "kurumsal_bilgisayar",
